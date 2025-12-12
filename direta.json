@@ -5,7 +5,8 @@
         "especialidade": "PRONTO ATENDIMENTO, PRONTO ATENDIMENTO: CARDIOLOGIA (ADULTO/PEDIATRICA), CIRURGIA GERAL, CLÍNICA MEDICA (ADULTO/PEDIÁTRICO), GINECOLOGIA/OBSTETRÍCIA, ORTOPEDIA, PEDIATRIA, RADIOLOGIA\n\nELETIVO: ALERGIA E IMUNOLOGIA, ANESTESIOLOGIA, ANGIOLOGIA, CANCEROLOGIA/ONCOLOGIA, \nCARDIOLOGIA, CARDIOLOGIA PEDIÁTRICA, CIRURGIA CABEÇA/PESCOÇO, CIRURGIA CARDIOVASCULAR, CIRURGIA DE MÃO, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA PEDIÁTRICA, \nCIRURGIA TORÁCICA, CIRURGIA VASCULAR, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA, \nFISIOTERAPIA, FONOAUDIOLOGIA, GASTROENTEROLOGIA, GASTROENTEROLOGIA INFANTIL, GINECOLOGIA/OBSTETRÍCIA, HEMATOLOGIA/HEMOTERAPIA, NEFROLOGIA, NEFROLOGIA PEDIÁTRICA, \nNEUROCIRURGIA, NEUROCIRURGIA PEDIÁTRICA, NEUROLOGIA, NEUROLOGIA PEDIÁTRICA, \nNUTRICIONISTA, NUTRICIONISTA INFANTIL, OFTALMOLOGIA, ORTOPEDIA/TRAUMATOLOGIA, \nOTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA. PROCTOLOGIA, \nPSICOLOGIA, PSIQUIATRÍA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, REUMATOLOGIA, UROLOGIA,  \n\nINTERNAÇÃO: ALERGIA E IMUNOLOGIA, ANESTESIOLOGIA, ANGIOLOGIA, CANCEROLOGIA/ONCOLOGIA, \nCARDIOLOGIA (ADULTO/PEDIATRICA), CIRURGIA CABEÇA E PESCOÇO, CIRURGIA CARDIOVASCULAR, \nCIRURGIA DE MÃO, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA PEDIATRICA, \nCIRURGIA TORÁCICA, CIRURGIA VASCULAR, CLÍNICA MÉDICA (ADULTO/PEDIÁTRICA), DERMATOLOGIA, \nENDOCRINOLOGIA,  GASTROENTEROLOGIA, GASTROENTEROLOGIA INFANTIL,GINECOLOGIA/OBSTETRÍCIA, \nHEMATOLOGIA/HEMOTERAPIA, MEDICINA LABORATORIAL, NEUROCIRURGIA, OFTALMOLOGIA (ADULTO/PEDIÁTRICO), ORTOPEDIA/TRAUMATOLOGIA, OTORRINOLARINGOLOGIA (ADULTO/PEDIÁTRICO), \nPEDIATRIA, RADIOLOGIA, UROLOGIA ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL HOME",
@@ -13,7 +14,8 @@
         "especialidade": "URGÊNCIA/EMERGÊNCIA: PRONTO ATENDIMENTO, ORTOPEDIA, CARDIOLOGIA E CLÍNICA MÉDICA.\n\nELETIVO: ANGIOLOGIA E CIRURGIA VASCULAR, CARDIOLOGIA, CIRURGIA CABEÇA E PESCOÇO, CIRURGIA CARDIOVASCULAR, CIRURGIA GERAL, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, DIAGNÓSTICO POR IMAGEM, GASTROENTEROLOGIA, GINECOLOGIA, MEDICINA NUCLEAR, NEUROCIRURGIA, NEUROLOGIA, ORTOPEDIA, OTORRINOLARINGOLOGIA, PROCTOLOGIA, RADIOLOGIA, UROLOGIA.\n\nINTERNAÇÃO: ANGIOLOGIA E CIRURGIA VASCULAR, CARDIOLOGIA, CIRURGIA CABEÇA E PESCOÇO, CIRURGIA CARDIOVASCULAR, CIRURGIA GERAL, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, DIAGNÓSTICO POR IMAGEM, GASTROENTEROLOGIA, GINECOLOGIA, MEDICINA NUCLEAR, NEUROCIRURGIA, NEUROLOGIA, ORTOPEDIA, OTORRINOLARINGOLOGIA, PROCTOLOGIA, RADIOLOGIA,UROLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, MEDICINA LABORATORIAL, MEDICINA INTENSIVA, NUTRIÇÃO, NUTROLOGIA, PSICOLOGIA\n",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DOS OLHOS - CBV ",
@@ -21,7 +23,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PAI PRONTO ATENDIMENTO INFANTIL",
@@ -29,7 +32,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA PEDIATRICA,CARDIOLOGIA,CARDIOLOGIA PEDIATRICCA, CLÍNICA GERAL,DERMATOLOGIA, ENDOCRIONOLOGIA PEDIATRÍCA,FONOAUDIOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA, HEPATOLOGIA, NEUROLOGIA PEDIATRICA, NUTRICIONISTA, OFTALMOLOGIA, OFTALMOLOGIA PEDIÁTRICA, PNEUMOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, PSICOLOGIA, RADIODIAGNOSTICO  POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AMHPDF",
@@ -37,7 +41,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA (ADULTO/PEDIÁTRICO), ANGIOLOGIA, CANCEROLOGIA, CANCEROLOGIA CIRÚRGICA, CARDIOLOGIA (ADULTO/PEDIÁTRICA), CIRURGIA CARDIOVASCULAR, CIRURGIA DE MÃO, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA DO APARELHO DIGESTIVO, DERMATOLOGIA,ENDOCRINOLOGIA (ADULTO/PEDIÁTRICO),  DIAGNÓSTICO POR IMAGEM, FISIOTERAPIA, FONOAUDIOLOGIA, INFECTOLOGIA (ADULTO/PEDIÁTRICO), MASTOLOGIA, NEUROLOGIA PEDIÁTRICA, NUTRIÇÃO, NUTROLOGIA, OFTALMOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL, PEDIATRIA, PNEUMOLOGIA (ADULTO/PEDIÁTRICO), PSICOLOGIA, PSIQUIATRIA, CIRUGIA GERAL, CIRURGIA PEDIÁTRICA, CIRURGIA TORÁCICA, CIRURGIA VASCULAR, CLÍNICA MÉDICA, GASTROENTEROLOGIA (ADULTO/PEDIÁTRICO), GENÉTICA MÉDICA, GERIATRIA, GINECOLOGIA E OBSTETRÍCIA, HEMATOLOGIA E HEMOTERAPIA, MEDICINA NUCLEAR, NEFROLOGIA (ADULTO/PEDIÁTRICO), NEUROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, RADIOTERAPIA, REUMATOLOGIA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL UROLÓGICO DE BRASÍLIA",
@@ -45,7 +50,8 @@
         "especialidade": "UROLOGIA, CANCEROLOGIA/ONCOLOGIA, DIAGNÓSTICO POR IMAGEM, MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DAHER LAGO SUL",
@@ -53,7 +59,8 @@
         "especialidade": "PRONTO ATENDIMENTO, PRONTO ATENDIMENTO: CLÍNICA MÉDICA, ORTOPEDIA, PEDIATRIA, CARDIOLOGIA, CIRURGIA GERAL\n\nELETIVO/INTERNAÇÃO: ORTOPEDIA E TRAUMATOLOGIA, CIRURGIA CARDIOVASCULAR, CARDIOLOGIA, NEUROCIRURGIA, CANCEROLOGIA/ONCOLOGIA, GINECOLOGIA, CIRURGIA GERAL, ANGIOLOGIA, CIRURGIA VASCULAR, CLÍNICA MÉDICA, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA TORÁCICA, INFECTOLOGIA, NEFROLOGIA, OTORRINOLARINGOLOGIA, PROCTOLOGIA, UROLOGIA, PEDIATRIA (SÓ ELETIVO)",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "EXAME LABORATÓRIO E IMAGEM",
@@ -61,7 +68,8 @@
         "especialidade": "PATOLOGIA CLÍNICA, MEDICINA LABORATORIAL, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ANCHIETA CEILÂNCIA (HOSPITAL SÃO FRANCISCO)",
@@ -69,7 +77,8 @@
         "especialidade": "PRONTO ATENDIMENTO, CLÍNICA MÉDICA, CARDIOLOGIA,CIRURGIA GERAL,GINECOLOGIA,ORTOPEDIA, PEDIATRIA,ALERGOLOGIA,ANGIOLOGIA,CIRURGIA PLÁSTICA, CIRURGIA DE APARELHO DISGETIVO, CIRURGIÃO VASCULAR, DERMATOLOGIA,ENDOCRINOLOGIA, FONOAUDIOLOGIA,GASTROENTEROLOGIA, INFECTOLOGIA,MASTOLOGIA,NEFROLOGIA,NEUROLOGIA,OFTALMOLOGIA,OTORRINOLARINGOLOGIA, PNEUMOLOGIA, COLOPROCTOLOGIA,UROLOGIA,",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COOPANEST-DF",
@@ -77,7 +86,8 @@
         "especialidade": "ANESTESIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RADIOLÍNEA CENTRO DE IMAGENS",
@@ -85,7 +95,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CEOL - OTORRINO",
@@ -93,7 +104,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA, RADIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CEOL - OTORRINO",
@@ -101,7 +113,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA, RADIOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CTCV - CENTRO DE TRATAMENTO CARDIOVASCULAR",
@@ -109,7 +122,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, RADIOLOGIA, NEUROLOGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO FERRER DE ORTOPEDIA",
@@ -117,7 +131,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, ORTOPEDOIA PEDIATRICA, REUMATOLOGIA\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOADVANCE",
@@ -125,7 +140,8 @@
         "especialidade": "CARDIOLOGIA, PNEUMOLOGIA, NUTROLOGIA, ENDOCRINOLOGIA, PSICOLOGIA, ANGIOLOGIA, RADIOLOGIA DIAGNÓSTICO POR IMAGENS",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "TERA ORTOSUL IMAGEM",
@@ -133,7 +149,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL ALVORADA BRASÍLIA",
@@ -141,7 +158,8 @@
         "especialidade": "PRONTO ATENDIMENTO, PRONTO ATENDIMENTO: CARDIOLOGIA, CIRURGIA GERAL, HEMOTERAPIA, MEDICINA INTENSIVA, ORTOPEDIA E TRAUMATOLOGIA, RADIOLOGIA\n\nELETIVO: ANESTESIOLOGIA, ANGIOLOGIA, CIRURGIA VASCULAR, CARDIOLOGIA, CIRURGIA CARDIOVASCULAR, CIRURGIA DE MÃO, CIRURGIA DA CABEÇA E PESCOÇO, CIRURGIA APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA TORÁCICA, DERMATOLOGIA, ENDOSCOPIA, GASTROENTEROLOGIA, GINECOLOGIA/OBSTETRÍCIA, NEUROCIRUGIA, NEUROLOGIA, CANCEROLOGIA/ONCOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PNEUMOLOGIA, PROCTOLOGIA, RADIOLOGIA, REUMATOLOGIA, UROLOGIA\n\nINTERNAÇÃO: ANESTESIOLOGIA, ANGIOLOGIA, CIRURGIA VASCULAR, CARDIOLOGIA, CIRURGIA CARDIOVASCULAR, CIRURGIA DE MÃO, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOSCOPIA,  ENDOCRINOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, GASTROENTEROLOGIA, GERIATRIA, GINECOLOGIA/OBSTETRÍCIA, HEMOPATOLOGIA/HEMOTERAPIA, INFECTOLOGIA, MEDICINA INTENSIVA, NEFROLOGIA,  NEUROCIRURGIA, CANCEROLOGIA/ONCOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, PEDIATRIA, PNEUMOLOGIA, PROCTOLOGIA, PSIQUIATRIA, RADIOLOGIA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA CRESCER HUMANIZADA EM PSIQUIATRIA",
@@ -149,7 +167,8 @@
         "especialidade": "PSIQUIATRIA",
         "bairro": "RIACHO FUNDO I",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MAXICOR CLÍNICA",
@@ -157,7 +176,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, ANGIOLOGIA, PSIQUIATRIA, GASTROENTEROLOGIA, REUMATOLOGIA, NEUROLOGIA, CLÍNICA MÉDICA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NEPHRO CARE",
@@ -165,7 +185,8 @@
         "especialidade": "NEFROLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL BRASÍLIA ÁGUAS CLARAS",
@@ -173,7 +194,8 @@
         "especialidade": "PRONTO ATENDIMENTO, PRONTO ATENDIMENTO: CLÍNICA MÉDICA, GINECOLOGIA, PEDIATRIA, ORTOPEDIA E TRAUMATOLOGIA, CIRUGIA GERAL\n\nINTERNAÇÃO: ANESTESIOLOGIA, ANGIOLOGIA, CARDIOLOGIA (ADULTO/PEDIÁTRICA), CIRURGIA CARDIOVASCULAR (ADULTO/PEDIÁTRICO), CIRUGIA DE MÃO, CIRUGIA DE CABEÇA E PESCOÇO, ORTOPEDIA E TRAUMATOLOGIA (ADULTO/PEDIÁTRICO), PNEUMOLOGIA (ADULTO/PEDIÁTRICO), UROLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRUGIA VASCULAR, CIRUGIA PEDIÁTRICA, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, ENDOCRINOLOGIA (ADULTO/PEDIÁTRICO), GASTROENTEROLOGIA (ADULTO/PEDIÁTRICO), GERIATRIA, GINECOLOGIA/OBSTETRÍCIA, HEMATOLOGIA (ADULTO/PEDIÁTRICO), OTORRINOLARINGOLOGIA, REUMATOLOGIA, INFECTOLOGIA (ADULTO/PEDIÁTRICO), MEDICINA INTENSIVA (ADULTO/PEDIÁTRICO), NEFROLOGIA (ADULTO/PEDIÁTRICO), NEUROCIRURGIA, NEUROLOGIA (ADULTO/PEDIÁTRICO), CANCEROLOGIA/ONCOLOGIA (ADULTO/PEDIÁTRICO), PEDIATRIA, REUMATOLOGIA PEDIÁTRICA\n\nELETIVO: ANESTESIOLOGIA, CARDIOLOGIA, CIRURGIA CARDÍACA, CIRUGIA DE CABEÇA E PESCOÇO, CIRUGIA PEDIÁTRICA, CIRUGIA GERAL, CIRUGIA TORÁCICA, CIRUGIA VASCULAR, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA, GASTRENTEROLOGIA, GERIATRIA, GINECOLOGIA/OBSTETRÍCIA, INFECTOLOGIA, NEFROLOGIA, NEUROCIRUGIA, NEUROLOGIA, OFTALMOLOGIA, CANCEROLOGIA/ONCOLOGIA, OTORRINOLARINGOLOGIA, ORTOPEDIA, PDIATRIA, PNEUMOLOGIA, PROCTOLOGIA, RADIOLOGIA, REUMATOLOGIA, UROLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MATERNIDADE BRASÍLIA",
@@ -181,7 +203,8 @@
         "especialidade": "PRONTO ATENDIMENTO: GINECOLOGIA/OBSTETRÍCIA\n\nINTERNAÇÃO:GINECOLOGIA/OBSTETRÍCIA, ANESTESIOLOGIA, CIRUGIA PEDIÁTRICA, CARDIOLOGIA PEDIÁTRICA, CIRUGIA TORÁCICA PEDIÁTRICA, INFECTOLOGIA, NEFROLOGIA PEDIÁTRICA, PEDIATRIA, MEDICINA INTENSIVA, UROLOGIA, NEUROLOGIA PEDIÁTRICA\n\nELETIVO: GINECOLOGIA/OBSTETRÍCIA, PEDIATRIA, PSICOLOGIA, ANESTESIOLOGIA, CARDIOLOGIA PEDIÁTRICA, INFECTOLOGIA, PROCTOLOGIA, UROLOGIA, GASTROENTEROLOGIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GINECUS",
@@ -189,7 +212,8 @@
         "especialidade": "GINECOLOGIA E OBSTETRICIA, MASTOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALIANÇA INSTITUTO DE ONCOLOGIA",
@@ -197,7 +221,8 @@
         "especialidade": "CLÍNICA MÉDICA, CIRURGIA GERAL,CIRURGIA ONCOLOGICA, ENDOCRIONOLOGIA,HEMATOLOGIA, HEMOTERAPIA,MASTOLOGIA,NUTRIÇÃO,ONCOLOGIA CLINICA E CIRURGIA, PSICOLOGIA, REUMATOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PERFECTA",
@@ -205,7 +230,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONCOLOGY",
@@ -213,7 +239,8 @@
         "especialidade": "CIRURGIA GERAL, CLÍNICA MÉDICA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA TORÁCICA, GENÉTICA MÉDICA, DERMATOLOGIA, GERIATRIA, GINECOLOGIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEFROLOGIA, NEUROLOGIA, NEUROCIRURGIA, CANCEROLOGIA/ONCOLOGIA, PSIQUIATRIA, REUMATOLOGIA, ENDOCRINOLOGIA, UROLOGIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -221,7 +248,8 @@
         "especialidade": "MEDICINA NUCLEAR  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IRT",
@@ -229,7 +257,8 @@
         "especialidade": "RADIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UROLOGY",
@@ -237,7 +266,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO DE IMAGEM, UROLOGIA, CIRURGIA VASCULAR, INFCTOLOGIA, PROCEDIMENTOS E EXAMES EM GERAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RENAL CARE",
@@ -245,7 +275,8 @@
         "especialidade": "NEFROLOGIA, NEFROLOGIA PEDIÁTRICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OCULARE OFTALMOLOGIA",
@@ -253,7 +284,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RA RADIOLOGIA",
@@ -261,7 +293,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SABIN MEDICINA DIAGNÓSTICA",
@@ -269,7 +302,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SABIN MEDICINA DIAGNÓSTICA",
@@ -277,7 +311,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL PACINI",
@@ -285,7 +320,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HODF",
@@ -293,7 +329,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO OFTALMOLÓGICO DE BRASÍLIA - IOB",
@@ -301,7 +338,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISÃO HOSPITAL DE OLHOS",
@@ -309,7 +347,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISÃO HOSPITAL DE OLHOS",
@@ -317,7 +356,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DA MAMA",
@@ -325,7 +365,8 @@
         "especialidade": "ANGIOLOGIA, CLÍNICA MÉDICA, ENDOCRINOLOGIA, GINECOLOGIA, MASTOLOGIA, CANCEROLOGIA/ONCOLOGIA, UROLOGIA,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PSICOCLÍNICA E PSICOTALENTOS",
@@ -333,7 +374,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RESPIRAR PNEUMOLOGIA E CIRUGIA TORÁCICA",
@@ -341,7 +383,8 @@
         "especialidade": "CIRURGIA TORÁCICA, OTORRINOLARINGOLOGIA, PNEUMOLOGIA, CARDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "QUALIFÍSIO",
@@ -349,7 +392,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ANGIORÁDIO",
@@ -357,7 +401,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA VASCULAR, DERMATOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ANGIORÁDIO ",
@@ -365,7 +410,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA VASCULAR, DERMATOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE PSICOLOGIA LEA SANTOS",
@@ -373,7 +419,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA BRASÍLIA",
@@ -381,7 +428,8 @@
         "especialidade": "FONOAUDIOLOGIA, CARDIOLOGIA, NEUROLOGIA, GASTROENTEROLOGIA, PROCTOLOGIA, PNEUMOLOGIA,OTORRINOLARINGOLOGIA, GINECOLOGIA, DIAGNÓSTICO POR IMAGEM",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONCOBRASÍLIA",
@@ -389,7 +437,8 @@
         "especialidade": "RADIOLOGIA, HEMATOLOGIA, CANCEROLOGIA/ONCOLOGIA, MASTOLOGIA, CIRURGIA TORÁCICA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DA MAMA",
@@ -397,7 +446,8 @@
         "especialidade": "ANGIOLOGIA, CLÍNICA MÉDICA, ENDOCRINOLOGIA, GINECOLOGIA, MASTOLOGIA, CANCEROLOGIA/ONCOLOGIA, UROLOGIA,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CETTRO - CENTRO DE RADIOTERAPIA",
@@ -405,7 +455,8 @@
         "especialidade": "RADIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE CÂNCER DE BRASÍLIA - ICB",
@@ -413,7 +464,8 @@
         "especialidade": "CANCEROLOGIA/ONCOLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, GENÉTICA MÉDICA, GERIATRIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO, PSICOLOGIA, PROCTOLOGIA, REUMATOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, UROLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE CÂNCER DE BRASÍLIA",
@@ -421,7 +473,8 @@
         "especialidade": "ONCOLOGIA CLÍNICA E QUIMIOTERAPIA AMBULATORIAL, CIRURGIA GERAL E ONCOLÓGICA, CIRURGIA DE CABEÇA PESCOÇO, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA PLÁSTICA E REPARADORA, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, GENÉTICA MÉDICA, GERIATRIA, HEMATOLOGIA E HEMOTERAPIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO ONCOLÓGICA, PSICOLOGIA ONCOLÓGICA, PROCTOLOGIA, REUMATOLOGIA, ORTOPEDIA E TRAUMATOLOGIA (SUBESPECIALIDADES: ONCOLOGIA ORTOPÉDICA/CIRURGIA ONCOLÓGICA ORTOPÉDICA) E UROLOGIA.",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CETTRO - CENTRO DE CÂNCER DE BRASÍLIA",
@@ -429,7 +482,8 @@
         "especialidade": "CANCEROLOGIA/ONCOLOGIA (ADULTO/PEDIÁTRICO) CLÍNICA MÉDICA, HEMATOLOGIA, MASTOLOGIA,UROLOGIA, CIRURGIA GERAL, HEMATOLOGIA PEDIATRICA, NUTRIÇÃO, PSICOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, GINECOLOGIA, ALERGIA E IMOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BABY PED PRONTO ATENDIMENTO INFANTIL",
@@ -437,7 +491,8 @@
         "especialidade": "PEDIATRIA",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA LONGEVITÁ",
@@ -445,7 +500,8 @@
         "especialidade": "NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA, DIAGNÓSTICO POR IMAGEM E REGISTRO GRÁFICO, PEDIATRIA, CARDIOLOGIA, ENDOCRINOLOGIA, PSIQUIATRIA, GINECOLOGIA E OBSTETRÍCIA, CLÍNICA MÉDICA, REUMATOLOGIA, ANGIOLOGIA E CIRURGIA VASCULAR, CLÍNICA MÉDICA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIA OFTALMOCENTER",
@@ -453,7 +509,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IPODF - INSTITUTO PANAMERICANO DE OFTALMOLOGIA",
@@ -461,7 +518,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALTAVISTA OFTALMOLOGIA",
@@ -469,7 +527,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE OLHOS DR. GRISÓLIA",
@@ -477,7 +536,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DIGESTIVA",
@@ -485,7 +545,8 @@
         "especialidade": "GASTROENTEROLOGIA, COLOPROCTOLOGIA, CLÍNICA MÉDICA, CIRURGIA GERAL, CIRURGIA DO APARELHO DIGIETIVO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO MÉDICO DA VISÃO",
@@ -493,7 +554,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FOCO OFTALMOLOGIA",
@@ -501,7 +563,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO AVANÇADO DA VISÃO",
@@ -509,7 +572,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "RECANTO DAS EMAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICB - Instituto de Câncer de Brasília",
@@ -517,7 +581,8 @@
         "especialidade": "CANCEROLOGIA/ONCOLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, GENÉTICA MÉDICA, GERIATRIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO, PSICOLOGIA, PROCTOLOGIA, REUMATOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA VIVER",
@@ -525,7 +590,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICB - INSTITUTO DE CÂNCER DE BRASÍLIA",
@@ -533,7 +599,8 @@
         "especialidade": "CANCEROLOGIA/ONCOLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA TORÁCICA, CLÍNICA MÉDICA, GENÉTICA MÉDICA, GERIATRIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO, PSICOLOGIA, PROCTOLOGIA, REUMATOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, UROLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA CONFIANCE",
@@ -541,7 +608,8 @@
         "especialidade": "CLÍNICA MÉDICA, ORTOPEDIA E TRAUMATOLOGIA, CARDIOLOGIA, ENDOCRINOLOGIA, NUTROLOGIA, NUTRIÇÃO, DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UROCENTRO",
@@ -549,7 +617,8 @@
         "especialidade": "UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBRANE",
@@ -557,7 +626,8 @@
         "especialidade": "NEFROLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "EXAMINEAGORA IMAGEM E MEDICINA",
@@ -565,7 +635,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "RECANTO DAS EMAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSL - HOSPITAL DE OLHOS SANTA LUCIA",
@@ -573,7 +644,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISTA HOSPITAL DA CATARATA",
@@ -581,7 +653,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SEG - SERVIÇO DE ENDOSCOPIA DO GAMA",
@@ -589,7 +662,8 @@
         "especialidade": "CLÍNICA MÉDICA, ENDOSCOPIA, PROCTOLOGIA, GASTROENTEROLOGIA, CIRURGIA GERAL",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RESPIRAR OTORRINOLARINGOLOGIA",
@@ -597,7 +671,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO SUL DE IMAGEM",
@@ -605,7 +680,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVA OFTALMOLOGIA",
@@ -613,7 +689,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BIOCÁRDIOS",
@@ -621,7 +698,8 @@
         "especialidade": "MEDICINA NUCLEAR, NUTROLOGIA, ANGIOLOGIA, CARDIOLOGIA, CIRURGIA CARDIOVASCULAR,CIRURGIA VASCULAR,CLÍNICA MÉDICA, GASTROENTEROLOGIA,PNEUMOLOGIA,RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA FEME - CLÍNICA DA MULHER",
@@ -629,7 +707,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA (ADULTO/PEDIÁTRICO), FISIOTERAPIA, GASTROENTEROLOGIA (ADULTO/PEDIÁTRICO), GINECOLOGIA, GERIATRIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NEUROPEDIATRIA, NUTROLOGIA, OFTALMOLOGIA, CANCEROLOGIA/ONCOLOGIA, ORTOPEDIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, PROCTOLOGIA, PSIQUIATRIA (ADULTO/INFANTIL), REUMATOLOGIA, UROLOGIA, NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CIAP",
@@ -637,7 +716,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RADIOGRAPH CLÍNICA DE IMAGEM",
@@ -645,7 +725,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DIGIMED",
@@ -653,7 +734,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIONORTE",
@@ -661,7 +743,8 @@
         "especialidade": "CARDIOLOGIA, CLÍNICA MÉDICA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BELA VISTA",
@@ -669,7 +752,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GASTROCLASS",
@@ -677,7 +761,8 @@
         "especialidade": "ENDOSCOPIA, GASTROENTEROLOGIA (ADULTO/PEDIÁTRICO), NEUROLOGIA, PROCTOLOGIA, DIAGNÓSTICO DE IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BIOCÁRDIOS",
@@ -685,7 +770,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, ANGIOLOGIA, GASTROENTEROLOGIA, CLÍNICA MÉDICA, CIRURGIA CARDIOVASCULAR, PNEUMOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTO SUL",
@@ -693,7 +779,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OFTALMO BRASÍLIA",
@@ -701,7 +788,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DA MAMA",
@@ -709,7 +797,8 @@
         "especialidade": "ANGIOLOGIA, CLÍNICA MÉDICA ENDOCRINOLOGIA GINECOLOGIA, MASTOLOGIA CANCEROLOGIA/ONCOLOGIA, UROLOGIA, DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HIDROFISIO",
@@ -717,7 +806,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HIDROFÍSIO",
@@ -725,7 +815,8 @@
         "especialidade": "FISIOTERAPIA ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HIDROFÍSIO",
@@ -733,7 +824,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HIDROFÍSIO",
@@ -741,7 +833,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDICINA DA VISÃO",
@@ -749,7 +842,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIO VIDA",
@@ -757,7 +851,8 @@
         "especialidade": "CARDIOLOGIA (ADULTO/PEDIÁTRICO)",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SOMA KINESIS",
@@ -765,7 +860,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLIVAC",
@@ -773,7 +869,8 @@
         "especialidade": "ALERGISTA, PEDIATRIA, CLÍNICA MÉDICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESCUTAR MAIS PROCESSAMENTO AUDITIVO CENTRAL",
@@ -781,7 +878,8 @@
         "especialidade": "FONOUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE IMAGEM VILLAGE",
@@ -789,7 +887,8 @@
         "especialidade": "GINECOLOGIA, ORTOPEDIA, ENDOCRINOLOGIA, RADIOLOGIA E DIAGNÓSTICO DE IMAGEM",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESCUTAR MAIS PROCESSAMENTO AUDITIVO CENTRAL",
@@ -797,7 +896,8 @@
         "especialidade": "FONOUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE IMAGEM VILLAGE",
@@ -805,7 +905,8 @@
         "especialidade": "GINECOLOGIA, ORTOPEDIA, ENDOCRINOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "H2FISIO",
@@ -813,7 +914,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DIAGNÓSTICO CLÍNICA DE IMAGENS MÉDICAS",
@@ -821,7 +923,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SAÚDE MAIS",
@@ -829,7 +932,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA GERAL, CARDIOLOGIA, CLÍNICA MÉDICA, GINECOLOGIA, DERMATOLOGIA, NEUROLOGIA, NUTRIÇÃO,  PSICOLOGIA, UROLOGIA,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "RIACHO FUNDO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTORRINO BRASÍLIA",
@@ -837,7 +941,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIDA EM MOVIMENTO FISIOTERAPIA",
@@ -845,7 +950,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO BRASILIENSE DE OTORRINOLARINGOLOGIA",
@@ -853,7 +959,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, PNEUMOLOGIA, NEUROLOGIA, PSIQUIATRIA, PEDIATRIA, FONOAUDIOLOGIA, NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UROS",
@@ -861,7 +968,8 @@
         "especialidade": "UROLOGIA E ANDROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OFTALMED - HOSPITAL DA VISÃO",
@@ -869,7 +977,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEO DE EXCELÊNCIA EM OTORRINOLARINGOLOGIA",
@@ -877,7 +986,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO HUMANITÁ",
@@ -885,7 +995,8 @@
         "especialidade": "PSIQUIATRIA E PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA UROMASTER",
@@ -893,7 +1004,8 @@
         "especialidade": "UROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CHB - CENTRO HIPERBÁRICO DE BRASÍLIA",
@@ -901,7 +1013,8 @@
         "especialidade": "CLÍNIICA MÉDICA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CHB - CENTRO HIPERBÁRICO DE BRASÍLIA",
@@ -909,7 +1022,8 @@
         "especialidade": "CLÍNIICA MÉDICA",
         "bairro": "LAGO NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DIAGNOSTIK",
@@ -917,7 +1031,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO MICRA",
@@ -925,7 +1040,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "TESLA IMAGEM",
@@ -933,7 +1049,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE FISIOTERAPIA ESPAÇO VIDA",
@@ -941,7 +1058,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "JARDIM BOTÂNICO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DERMA PRIME",
@@ -949,7 +1067,8 @@
         "especialidade": "DERMATLOGIA E OTORRINOLARINGOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HPAES DAY CLINIC",
@@ -957,7 +1076,8 @@
         "especialidade": "ANGIOLOGIA, OTORRINOLARINGOLOGIA, MASTOLOGIA,GINECOLOGIA E OBSTETRÍCIA, ORTOPEDIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM,PEDIATRIA, NEUROLOGIA,PSIQUIATRIA, PSICOLOGIA,UROLOGIA, CARDIOLOGIA, NUTRIÇÃO, DERMATOLOGIA, OFTALMOLOGIA, CIRURGIA GERAL, GASTROENTEROLOGIA, COLOPROCTOLOGIA.",
         "bairro": "SÃO SEBASTIÃO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ACP PSICOLOGIA",
@@ -965,7 +1085,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA VILA RICA",
@@ -973,7 +1094,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA LEVITAR",
@@ -981,7 +1103,8 @@
         "especialidade": "FISIOTERAPIA, PSCOLOGIA, NUTRIÇÃO",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBOC CARDIOLOGIA",
@@ -989,7 +1112,8 @@
         "especialidade": "CARDIOLOGIA ,ENDOCRINOLOGIA, RADIOLOGOA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BIOPSICO - INSTITUTO DE PSICOLOGIA APLICADA À VIDA",
@@ -997,7 +1121,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BIOPSICO - INSTITUTO DE PSICOLOGIA APLICADA À VIDA",
@@ -1005,7 +1130,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1013,7 +1139,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1021,7 +1148,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1029,7 +1157,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1037,7 +1166,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1045,7 +1175,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1053,7 +1184,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOPHYSIO",
@@ -1061,7 +1193,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA (matriz) / LAGO SUL (filial I) / TAGUATINGA (filial II) / CEILÂNDIA (filial III) / SAMAMBAIA (filial IV) / TAGUATINGA (filial V) / ASA SUL (filial VI)",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIDERE",
@@ -1069,7 +1202,8 @@
         "especialidade": "FISIOTERAPIA, ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CBCE - CENTRO BRASILIENSE DE CIRURGIA E ENDOSCOPIA",
@@ -1077,7 +1211,8 @@
         "especialidade": "CLÍNICA MÉDICA, CIRURGIA GERAL, GASTROENTEROLOGIA, CIRURGIA GERAL, CIRURGIA TORÁCICA, ANGIOLOGIA, CIRURGIA VASCULAR,RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLÍNICO MEDICAL VIP",
@@ -1085,7 +1220,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UNNA VITTA",
@@ -1093,7 +1229,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA GERAL, CIRURGIA VASCULAR, CIRURGIA PLÁSTICA, DERMATOLOGIA, ENDOCRINOLOGIA E METABOLISMO, GINECOLOGIA E OBSTETRÍCIA, MASTOLOGIA, NUTRIÇÃO, NUTROLOGIA, PSICOLOGIA, UROLOGIA, DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTO NORTE",
@@ -1101,7 +1238,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LAPAC",
@@ -1109,7 +1247,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICB - OFTALMOLOGIA",
@@ -1117,7 +1256,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "H2FISIO",
@@ -1125,7 +1265,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA VIVER",
@@ -1133,7 +1274,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA VILA RICA",
@@ -1141,7 +1283,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DESPORFÍSIO",
@@ -1149,7 +1292,8 @@
         "especialidade": "NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AFETUS CLÍNICA E IMAGENS MÉDICAS",
@@ -1157,7 +1301,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, GINECOLOGIA E OBSTETRÍCIA, MASTOLOGIA, ORTOPEDIA, UROLOGIA, RADIOLOGIA E DIAGNÓTICO POR IMAGEM",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NOBRE CENTRO MÉDICO",
@@ -1165,7 +1310,8 @@
         "especialidade": "PEDIATRIA, CLÍNICA MÉDICA, PSICOLOGIA, FISIOTERAPIA, OFTALMOLOGIA, ORTOPEDIA, CARDIOLOGIA, NUTRIÇÃO, GINECOLOGIA E OBSTETRÍCIA, NEUROLOGIA, PSIQUIATRIA, UROLOGIA, FONOAUDIOLOGIA,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SÃO SEBASTIÃO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONCOVIDA",
@@ -1173,7 +1319,8 @@
         "especialidade": "ONCOLOGIA/ CANCEROLOGIA(  ADULTO/ PEDIÁTRICO) , COLOPROCTOLOGIA, ENDOCRINOLOGIA, FISIOTERAPIA, GERIATRIA, GINECOLOGIA E OBSTETRÍCIA, HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA, PNEUMOLOGIA, RADIOLOGIA E DIAGNÓSTICO PR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO SANTA PAULA",
@@ -1181,7 +1328,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ORTOPÉDICA DE TAGUATINGA",
@@ -1189,7 +1337,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, FISIOTERAPIA, PSICOLOGIA,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA IOT",
@@ -1197,7 +1346,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, PEDIATRIA, CARDIOLOGIA, NEUROLOGIA, CIRURGIA PLÁSTICA, ANGIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CEBRAPPSI",
@@ -1205,7 +1355,8 @@
         "especialidade": "PSCICOLOGIA, NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "POLICLÍNICA MAIS",
@@ -1213,7 +1364,8 @@
         "especialidade": "CARDIOLOGIA, CLINICA MÉDICA, DERMATOLOGIA, GASTROENTEREOLOGIA, GINECOLOGIA E OBSTETRÍCIA, NEUROLOGIA, NUTRIÇÃO, ORTOPEDIA E TRAUMATOLOGIA, PEDIATRIA, PNEUMOLOGIA, UROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE IMAGEM SAMAMBAIA",
@@ -1221,7 +1373,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO ATTUARE",
@@ -1229,7 +1382,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SÃO MATEUS",
@@ -1237,7 +1391,8 @@
         "especialidade": "PRONTO ATENDIMENTO, CLÍNICA MÉDICA, ORTOPEDIA E TRAUMATOLOGIA, CIRURGIA GERAL, CIRURGIA VASCULAR, ANGIOLOGIA, UROLOGIA, CIRURGIA PLÁSTICA, CARDIOLOGIA, NEFROLOGIA, OTORRINOLARINGOLOGIA, NEUROLOGIA, GINECOLOGIA E OBSTETRÍCIA, COLOPROCTOLOGIA, INFECTOLOGIA, PSIQUIATRIA, NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR  IMAGEM.",
         "bairro": "CRUZEIRO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLIAOD",
@@ -1245,7 +1400,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLÍNICO SAMAMBAIA",
@@ -1253,7 +1409,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CLÍNICA MÉDICA, COLOPROCTOLGIA, DERMATOLOGIA, FONOÁUDIOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETREÍCIA,  MASTOLOGIA,  NEUROLOGIA, NURTRIÇÃO, ORTOPEDIA E TRAUMATOLOGIA, OTORRRINOLARINGOLOGIA, PSICOLOGIA, PSIQUIATRIA, UROLOGIA.",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLÍNICO SALUTÁ",
@@ -1261,7 +1418,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CLINICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA, GERIATRIA, HEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA, NEUROPEDIATRIA, OFTALMOLOGIA, ONCOLOGIA, ORTOPEDIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, PROCTOLOGIA, PSIQUIATRIA, REUMATOLOGIA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CIG - CENTRO DE IMAGENS GAMA",
@@ -1269,7 +1427,8 @@
         "especialidade": "RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SÍRIO LIBANÊS",
@@ -1277,7 +1436,8 @@
         "especialidade": "CANCEROLOGIA/ ONCOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLÍNICO SALUTÁ",
@@ -1285,7 +1445,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRIRGIA GERAL, CIRURGIA PLÁSTICA, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA ( ADULTO/ CRIANÇA), GASTROENTEROLOGIA( ADULTO/ CRIANÇA), GINECOLOGIA E OBSTETRÍCIA, GERIATRIA, HEMATOLOGIA E HEMOTERAPIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA                 (ADULTO/ CRIANÇA), NUTROLOGIA, OFTALMOLOGIA, CANCEROLOGIA/ONCOLOGIA, ORTOPEDIA E TRAUMATOLOGIA,  OTORRINOLARINGOLOGAIA,  PEDIATRIA, PNEUMOLOGIA, COLOPROCTOLOGIA, PSIQUIATRIA ( ADULTO/ CRIANÇA), REUMATOLOGIA, UROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO MÉDICO MATSUMOTO",
@@ -1293,7 +1454,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CLINICA MÉDICA, DERMATOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRÍCIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO, OFTALMOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PEDIATRIA, COLOPROCTOLOGIA, PSICOLOGIA, UROLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MISRAEL PSICOLOGIA",
@@ -1301,7 +1463,8 @@
         "especialidade": "FONOAUDIOLOGIA , NUTRIÇAO,  PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "M. ISRAEL SAÚDE",
@@ -1309,7 +1472,8 @@
         "especialidade": "PSICOLOGIA E FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DAS CLÍNICAS E PRONTO SOCORRO DE FRATURAS DE CEILÂNDIA - HC",
@@ -1317,7 +1481,8 @@
         "especialidade": "PRONTO ATENDIMENTO, CLÍNICA MEDICA, GINECOLOGIA E OBSTETRICIA, ORTOPEDIA E TRAUMATOLOGIA, PEDIATRIA, CIRURGIA GERAL, NEUROLOGIA , UROLOGIA, GASTROENTEROLOGIA,  COLOPROCTOLOGIA, MASTOLOGIA, HEMATOLOGIA E  HEMOTERAPIA, DERMATOLOGIA, FISIOTERAPIA, PSICOLOGIA, NUTRIÇÃO, CARGIOLOGIA, ENDOCRINOLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRUS MEDICINA DIAGNÓSTICA",
@@ -1325,7 +1490,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IACV",
@@ -1333,7 +1499,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA VASCULAR",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SÃO JOAQUIM",
@@ -1341,7 +1508,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA, CLINICA MÉDICA, DERMATOLOGIA ,ENDOCRINOLOGIA E METABOLOGIA,  GASTROENTEROLOGIA,  NUTRIÇÃO,  NUTROLOGIA,  PSICOLOGIA, PSIQUIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIO PRIME",
@@ -1349,7 +1517,8 @@
         "especialidade": "CARDIOLOGIA  ",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SANITY CLÍNICA DE PSICOLOGIA",
@@ -1357,7 +1526,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIO MASTER",
@@ -1365,7 +1535,8 @@
         "especialidade": " CARDIOLOGIA ( ADULTO/ CRIANÇA) , CLINICA MÉDICA,  ANGIOLOGIA, CIRURGIA VASCULAR, ORTOPEDIA E TRAUMATOLOGIA,  NUTRIÇÃO",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MOV CLÍNICA",
@@ -1373,7 +1544,8 @@
         "especialidade": "CARDIOLOGIA, GINECOLOGIA, CLÍNICA MÉDICA, PEDIATRIA, UROLOGIA, PROCTOLOGIA, ENDOCRINOLOGIA E METABOLOGIA, ANGIOLOGIA, NEUROLOGIA, DERMATOLOGIA, PSIQUIATRIA, ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVACE",
@@ -1381,7 +1553,8 @@
         "especialidade": "FISIOTERAPIA , CLINICA MÉDICA, GASTROENTEROLOGIA, ORTOPEDIA E TRAUMATOLOGIA, NUTRIÇÃO, PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RESSONANCE",
@@ -1389,7 +1562,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FEME - FAMÍLIA DE EXAMES MÉDICOS",
@@ -1397,7 +1571,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CLINICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA E METABOLOGIA( ADULTO/ CRIANÇA), GASTROENTEROLOGIA  (ADULTO/ CRIANÇA) GINECOLOGIA E OBSTETRÍCIA, GERIATIRA, HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA, NEUROLOGIA, NUTROLOGIA, OFTALMOLOGIA, CANCEROLOGIA/ ONCOLOGIA, ORTOPEIDA E TRAUMATOLOGIA, OTORRINOLRARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, COLOPROCTOLOGIA, PSIQUIATRIA (ADULTO/ CRIANÇA)  REUMATOLOGIA, UROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PADRÃO - CENTRO DE DIAGNÓSTICO POR IMAGEM",
@@ -1405,7 +1580,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RESSONANCE",
@@ -1413,7 +1589,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IPED DF",
@@ -1421,7 +1598,8 @@
         "especialidade": "PEDIATRIA, DERMATOLOGIA  , RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SANITY CLÍNICA DE PSICOLOGIA",
@@ -1429,7 +1607,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "M. ISRAEL SAÚDE",
@@ -1437,7 +1616,8 @@
         "especialidade": "PSIIQUIATRIA, PSICOLOGIA, FONOAUDIOOGIA, CLÍNICA MÉDICA, GERIATRIA, NUTRIÇÃO, ENDOCRINOLOGIA, NUTROLOGIA, PEDIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ULTRAMEDICAL",
@@ -1445,7 +1625,8 @@
         "especialidade": "RADIOLOGIA E DIAGN´ÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ANGIOPRIME",
@@ -1453,7 +1634,8 @@
         "especialidade": "ANGIOLOGIA,  ENDOCRINOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA GILL'S",
@@ -1461,7 +1643,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PRÓ PHYSIS",
@@ -1469,7 +1652,8 @@
         "especialidade": "FISIOTERAPIA, FONOAUDIOLOGIA, NUTRIÇÃO, PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA APSIVIDA",
@@ -1477,7 +1661,8 @@
         "especialidade": "PSICOLOGIA, NUTRIÇÃO, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ISO CARDIOLOGIA E EXAMES",
@@ -1485,7 +1670,8 @@
         "especialidade": "CARDIOLOGIA, CLÍNICA MÉDICA, ENDOCRINOLOGISTA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE FISIOTERAPIA ADRIANA GOMES",
@@ -1493,7 +1679,8 @@
         "especialidade": "FISIOTERAPIA , CLÍNICA MÉDICA, UROLOGIA",
         "bairro": "OCTOGONAL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NUTRIMED",
@@ -1501,7 +1688,8 @@
         "especialidade": "NUTROLOGIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IAB",
@@ -1509,7 +1697,8 @@
         "especialidade": "ANGIOLOGIA CIRURGIA VASCULAR , CIRURGIA GERAL, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DERMA PRIME",
@@ -1517,7 +1706,8 @@
         "especialidade": "DERMATOLOGIA , OTORRINOLARINGOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDDIO",
@@ -1525,7 +1715,8 @@
         "especialidade": "CARDIOLOGIA ,PEDIATRIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA BOA VISTA DE OFTALMOLOGISTA",
@@ -1533,7 +1724,8 @@
         "especialidade": "OFTALMOLOGIA ",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BIOVIDA MEDICINA ESPECIALIZADA",
@@ -1541,7 +1733,8 @@
         "especialidade": "CLINICA MÉDICA,  ORTOPEDIA ( ADULTO/CRIANÇA), PEDIATRIA, DERMATOLOGIA, ENDOCRIONOLOGIA, GINECOLOGIA E OBSTETRICIA, PSIQUIATRIA, PNEUMOLOGIA, NUTRIÇÃO, PSICOLOGIA, CIRURGIA PLÁSTICA, ",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SALUS",
@@ -1549,7 +1742,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, FISIOTERAPIA ,NUTRIÇÃO, NEUROLOGIA( CRIANÇA)",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ACREDITAR",
@@ -1557,7 +1751,8 @@
         "especialidade": "CANCEROLOGIA/ ONCOLOGIA, HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA,RADIOTERAPIA, CARDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": " ACREDITAR",
@@ -1565,7 +1760,8 @@
         "especialidade": "CANCEROLOGIA/ONCOLOGIA, HEMATOLOGIA E HEMOTERAPIA, RADIOTERAPIA, CARDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RM CLÍNICA DE REABILITAÇÃO",
@@ -1573,7 +1769,8 @@
         "especialidade": "PSIQUIATRIA, PSICOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOQUER",
@@ -1581,7 +1778,8 @@
         "especialidade": "FISIOTERAPIA,  FONOAUDIOLOGIA , PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOQUER",
@@ -1589,7 +1787,8 @@
         "especialidade": "FISIOTERAPIA, FONOAUDIOLOGIA, NUTRIÇÃO, PSICOLOGIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALLIVIARE",
@@ -1597,7 +1796,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VECOR",
@@ -1605,7 +1805,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, ANGIOLOGIA, ENDOCRINOLOGIA E METABOLOGIA, GINECOLOGIA E OBSTETRÍCIA, PEDIATRIA, DERMATOLOGIA , CIRURGIA GERAL, NEUROLOGIA,                                                             RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOTERAPIA SANTA ISABEL",
@@ -1613,7 +1814,8 @@
         "especialidade": "FISIOTERAPIA, NUTRIÇÃO,  PSICOLOGIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SÍRIO LIBANÊS- UNIDADE BRASÍLIA II",
@@ -1621,7 +1823,8 @@
         "especialidade": "CANCEROLOGIA/ ONCOLOGIA ( ADULTO/ CRIANÇA), RADIOTERAPIA, HEMATOLOGIA E HEMOTERAPIA                         ( ADULTO/CRIANÇA)  MASTOLOGIA, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL, UROLOGIA, GENÉTICA MÉDICA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, GINECOLOGIA E OBSTETRÍCIA, REUMATOLOGIA, CARDIOLOGIA, CIRURGIA TORÁCICA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INFINITA MEDICINA DIAGNÓSTICA",
@@ -1629,7 +1832,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, CLÍNICA MÉDFICA, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INFINITA MEDICINA DIAGNÓSTICA",
@@ -1637,7 +1841,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICOS POR IMAGNS, CLÍNICA MÉDICA , OATOLOGIA CLINICA/  MEDICINA LABORATORIAL",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDIGEST",
@@ -1645,7 +1850,8 @@
         "especialidade": "GASTROENTEROLOGIA, CLÍNICA MÉDICA, COLOPROCTOLOGIA, CIRURGIA GERAL, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE FISIOTERAPIA FORÇA",
@@ -1653,7 +1859,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LÂMINA LABORATÓRIO DE PATOLOGIA E PREVENÇÃO DE CÂNCER",
@@ -1661,7 +1868,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SMART CARDIO",
@@ -1669,7 +1877,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CLÍNICA MÉDICA, GASTROENTEROLOGIA, GINECOLOGA E OBSTETRÍCIA, MASTOLOGIA, NEUROLOGIA, NUTRIÇÃO, ORTOPEDIA E TRAUMATOLOGIA, RADIOLOGIA E DISGNÓSTICO POR IMAGEM,  UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CETTRO - CENTRO DE CÂNCER DA ASA SUL",
@@ -1677,7 +1886,8 @@
         "especialidade": "CANCEROLOGIA/ ONCOLOGIA (ADULTO/ CRIANÇA), HEMATOLOGIA E HEMOTERAPIA ( ADULTO/ CRIANÇA),  RADIOTERAPIA, MASTOLOGIA, UROLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, NUTRIÇÃO, PSICOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, GINECOLOGIA E OBSTETRÍCIA, ALERGIA E IMUNOLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR I MAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DDCT ENDOSCOPIA",
@@ -1685,7 +1895,8 @@
         "especialidade": "GASTROENTEROLOGIA, CLÍNICA MÉDICA, CIRURGIA DO APARELHO DIGESTIVO, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COTP",
@@ -1693,7 +1904,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA CONSOLIDAÇÃO, TRAUMATOLOGIA E ORTOPEDIA",
@@ -1701,7 +1913,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, FISIOTERAPIA, CLÍNICA MÉDICA, NEUROLOGIA ( CRIANÇA)",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IOT",
@@ -1709,7 +1922,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SÍRIO LIBANÊS- UNIDADE BRASÍLIA III",
@@ -1717,7 +1931,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL MARIA AUXILIADORA",
@@ -1725,7 +1940,8 @@
         "especialidade": "PRONTO ATENDIMENTO, ANESTESIOLOGIA; ANGIOLOGIA E CIRURGIA VASCULAR; CANCEROLOGIA/ ONCOLOGIA, CARDIOLOGIA,  CIRURGIA CARDIOVASCULAR, CIRURGIA DE MÃO, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CLÍNICA MÉDICA, COLOPROCTOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRICIA; HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA,  MEDICINA INTENSIVA, NEFROLOGIA,  NUTRIÇÃO, NUTROLOGIA, ORTOPEDIA E TRAUMATOLOGIA; OTORRINOLARINGOLOGIA, PATOLOGIA CLINICA/MEDICINA LABORATORIAL, PEDIATRIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, UROLOGIA, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA TAGUATINGA",
@@ -1733,7 +1949,8 @@
         "especialidade": "PRONTO ATENDIMENTO, CLINICA MÉDICA, ORTOPEDIA E TRAUMATOLOGIA, GINECOLOGIA E OBSTETRICA, CIRURGIA GERAL, PEDIATRIA, CARDIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM , ANESTESIOLOGIA, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO OLHOS DE TAGUATINGA",
@@ -1741,7 +1958,8 @@
         "especialidade": "OFTALMOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTOPEDIA ÁGUAS CLARAS",
@@ -1749,7 +1967,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, ANGIOLOGIA , RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MULTIMAGEM",
@@ -1757,7 +1976,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOPRIME CLÍNICA DE REABILITAÇÃO",
@@ -1765,7 +1985,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IMAGENS MÉDICAS DE BRASÍLIA - IMEB",
@@ -1773,7 +1994,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLIDIP",
@@ -1781,7 +2003,8 @@
         "especialidade": "CLINICA MÉDICA , INFECTOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA COBRA",
@@ -1789,7 +2012,8 @@
         "especialidade": "ORTOPEDIA E  TRAUMATOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COB",
@@ -1797,7 +2021,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINFEC",
@@ -1805,7 +2030,8 @@
         "especialidade": "INFECTOLOGIA, HEMATOLOGIA E HEMOTERAPIA, MEDICINA GENÉTICA, MASTOLOGIA, ORTOPEDIA E TRAUMATOLOGIA,  NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA, GINECOLOGIA E OBSTETRÍCIA,  ANESTESIOLOGIA, PSIQUIATRIA, CIRURGIA GERAL, CLÍNICA MÉDICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINICA PROCORPORE ",
@@ -1813,7 +2039,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "JK ORTOPEDIA CLÍNICA DA DOR",
@@ -1821,7 +2048,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA,  CIRURGIA GERAL, COLOPROCTOLOGIA, PSICOLOGIA, CIRURGIA VASCULAR, PEDIATRIA, GINECOLOGIA E OBSTETRÍCIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ANGIOMASTER",
@@ -1829,7 +2057,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA VASCULAR, CIRURGIA GERAL, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDICORDIS",
@@ -1837,7 +2066,8 @@
         "especialidade": "CARDIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SB FISIO",
@@ -1845,7 +2075,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INOVOX OTORRINOLARINGOLOGIA E VOICE CENTER",
@@ -1853,7 +2084,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SOFT SOCIEDADE OFTALMOLOGICA",
@@ -1861,7 +2093,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IDEALCOR",
@@ -1869,7 +2102,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -1877,7 +2111,8 @@
         "especialidade": "MEDICINA NUCLEAR  ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IMAC",
@@ -1885,7 +2120,8 @@
         "especialidade": "MASTOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA GERAL, GINECOLOGIA E OBSTETRÍCIA, CIRURGIA PLÁSTICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -1893,7 +2129,8 @@
         "especialidade": "MEDICINA NUCLEAR ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA JANICE LAMAS RADIOLOGIA",
@@ -1901,7 +2138,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE OLHOS BRUNO BORGES",
@@ -1909,7 +2147,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -1917,7 +2156,8 @@
         "especialidade": "MEDICINA NUCLEAR ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ORTOPÉDICA EBENEZER",
@@ -1925,7 +2165,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IMAGEM LABORATÓRIO",
@@ -1933,7 +2174,8 @@
         "especialidade": " RADIOLOGIA  E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA HUMANAS - MEDICINA E REABILITAÇÃO",
@@ -1941,7 +2183,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, PEDIATRIA, FONOAUDIOLOGIA, FISIOTERAPIA, CLINICA MÉDICA, PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICB OFTALMOLOGIA",
@@ -1949,7 +2192,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FIB",
@@ -1957,7 +2201,8 @@
         "especialidade": "FISIOTERAPIA, NUTRIÇÃO, PEDIATRIA, ORTOPEDIA E TRAUMATOLOGIA, CLÍNICA MÉDICA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTORHYNUS CLÍNICA",
@@ -1965,7 +2210,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LIFECARE EXAMES DIAGNÓSTICOS",
@@ -1973,7 +2219,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CLÍNICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA  (CRIANÇA), GASTROENTEROLOGIA ( ADULTO/CRIANÇA), GIENCOLOGIA E OBSTETRÍCIA, GERIATRIA, HEMATOLOGIA E HEMOTERAPIA, INFECTOLOGIA, MASTOLOGIA, NEUROLOGIA (ADULTO/CRIANÇA), NUTROLOGIA, OFTALMOLOGIA, CANCEROLOGIA/ONCOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, UROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RAC - RADIOLOGIA",
@@ -1981,7 +2228,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE OLHOS BRUNO BORGES",
@@ -1989,7 +2237,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESTÂNCIA RESILIÊNCIA",
@@ -1997,7 +2246,8 @@
         "especialidade": "PSIQUIATRIA E PSICOLOGIA",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOTRAUMA",
@@ -2005,7 +2255,8 @@
         "especialidade": "FISIOTERAPIA , ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA JANICE LAMAS RADIOLOGIA",
@@ -2013,7 +2264,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVACE",
@@ -2021,7 +2273,8 @@
         "especialidade": "FISIOTERAPIA, GASTROENTEROLOGIA, ORTOPEDIA E TRAUMATOLOGIA, CLÍNICA MÉDICA, NUTRIÇÃO, PSICOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INCORDIS",
@@ -2029,7 +2282,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA MÉDICA OTOGAMA",
@@ -2037,7 +2291,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GASTROSUL",
@@ -2045,7 +2300,8 @@
         "especialidade": "GASTROENTEROLOGIA, COLOPROCTOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SANTIAGO",
@@ -2053,7 +2309,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA, CARDIOLOGIA, GINECOLOGIA E OBSTETRÍCIA, NUTRIÇÃO, OFTALMOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, PEDIATRIA, UROOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOMOV FISIOTERAPIA E SAÚDE",
@@ -2061,7 +2318,8 @@
         "especialidade": "FISIOTERAPIA ",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOS VITA",
@@ -2069,7 +2327,8 @@
         "especialidade": "CARDIOLOGIA ( ADULTO/ CRIANÇA) ,  RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PROCORPORE FISIOTERAPIA E PILATES",
@@ -2077,7 +2336,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA INTEGRALITE",
@@ -2085,7 +2345,8 @@
         "especialidade": "CARDIOLOGIA, DERMATOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ASMEPRO",
@@ -2093,7 +2354,8 @@
         "especialidade": "CARDIOLOGIA, NEUROLOGIA, CLÍNICA MÉDICA, REUMATOLOGIA, PNEUMOLOGIA, PEDIATRIA, OFTALMOLOGIA, ORTOPEIDA E TRAUMATOLOGIA, UROLOGIA, CIRURGIA VASCULAR, HEMATOLOGIA E HEMOTERAPIA, NUTROLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, NEUROLOGIA (CRIANÇA), DERMATOLOGIA, GASTROENTEROLOGIA, GERIATRIA, INFECTOLOGIA, OTORRINOLARINGOLOGIA, CIRURGIA GERAL, GINECOLOGIA E OBSTETRÍCIA, PSIQUIATRIA, FISIOTERAPIA, FONOAUDIOLOGIA, PSICOLOGIA, NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DE OLHOS DO CENTRO OESTE",
@@ -2101,7 +2363,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SANTA MARTA ASA NORTE",
@@ -2109,7 +2372,8 @@
         "especialidade": "\nMEDICINA INTENSIVA, PRONTO ATENDIMENTO, NEFROLOGIA, NEUROCIRURGIA, NEUROLOGIA, OFTALMOLOGIA, ONCOLOGIA, CARDIOLOGIA, CIRURGIA VASCULAR, CLINICA MEDICA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRICIA, HEMATOLOGIA E HEMOTERAPIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, NUTRIÇÃO, OFTALMOLOGIA, PSIQUIATRIA, PATOLOGIA CLINICA / MEDICINA LABORATORIAL, PEDIATRIA, PNEUMOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM, REUMATOLOGIA, ANESTESIOLOGIA.\n",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -2117,7 +2381,8 @@
         "especialidade": "MEDICINA NUCLEAR, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALIANÇA MEDICINA LABORATORIAL",
@@ -2125,7 +2390,8 @@
         "especialidade": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "TATIANA MEDICINA E IMAGEM",
@@ -2133,7 +2399,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDCO",
@@ -2141,7 +2408,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA GERAL, CLINICA MÉDICA, DERMATOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, GINECOLOGIA, NUTRIÇÃO, OFTALMOLOGIA, ORTOPEDIA, PEDIATRIA, PSIQUIATRIA, PSICOLOGIA, UROLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM,  PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
         "bairro": "JARDIM BOTÂNICO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ESSÊNCIA",
@@ -2149,7 +2417,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOTERAPIA SANTA RITA",
@@ -2157,7 +2426,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SABER VIVER",
@@ -2165,7 +2435,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL NEUROPSIQUIÁTRICO DE BRASÍLIA - HNPB",
@@ -2173,7 +2444,8 @@
         "especialidade": "PSIQUIATRIA, PSICOLOGIA, NEUROLOGIA, CARDIOLOGIA, OTORRINOLARINGOLOGIA, CLINICA MÉDICA, GASTROENTEROLOGIA, UROLOGIA,  NUTRIÇÃO",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA CONCEITTO",
@@ -2181,7 +2453,8 @@
         "especialidade": "CLINICA MÉDICA, DERMATOLOGIA, GINECOLOGIA, NUTRIÇÃO, NUTROLOGIA, UROLOGIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HEMOCLÍNICA",
@@ -2189,7 +2462,8 @@
         "especialidade": "HEMATOLOGIA E HEMOTERAPIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ENDOCRINODF",
@@ -2197,7 +2471,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA VASCULAR, CLINICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA, FISIOTERPIA, FONOAUDIOLOGIA, GINECOLOGIA, NEUROLOGIA ( ADULTO E PEDIATRICO) NUTRIÇÃO, ORTOPEDIA, PEDIATRIA, PNEUMOLOGIA, PSICOLOGIA, PSIQUIATRIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM E UROLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SÃO JOSÉ",
@@ -2205,7 +2480,8 @@
         "especialidade": "CLINICA MÉDICA, OFTALMOLOGIA, UROLOGIA, CARDIOLOGIA, PNEUMOLOGIA, ANGIOLOGIA, NEUROLOGIA, OROTORRINOLARINGOLOGIA, NUTRIÇÃO, PEDIATRIA, GINECOLOGIA, DERMATOLOGIA, PSIQUIATRIA, ENDOCRINOLOGIA, PSICOLOGIA, FISIOTERAPIA, FONOUADIOLOGIA, ORTOPEDIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "BRAZLÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PERSONA DESENVOLVIMENTO HUMANO",
@@ -2213,7 +2489,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RENO ARAÚJO NUTRIÇÃO",
@@ -2221,7 +2498,8 @@
         "especialidade": "NUTRIÇÃO",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HIGIDUS",
@@ -2229,7 +2507,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, NUTROLOGIA, NUTRIÇÃO, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA MATERVIDA KIDS",
@@ -2237,7 +2516,8 @@
         "especialidade": "GINECOLOGIA  E OBSTETRÍCIA E RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, MASTOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "A FOCUS DIAGNÓSTICO POR IMAGEM",
@@ -2245,7 +2525,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SPAZIO VITA",
@@ -2253,7 +2534,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "TAGUAMED",
@@ -2261,7 +2543,8 @@
         "especialidade": "NUTROLOGIA,  NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO HEBREU",
@@ -2269,7 +2552,8 @@
         "especialidade": "PATOLOGIA CLINICA/ MEDICINA LABORATORIAL",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ANGIOCOR",
@@ -2277,7 +2561,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOCOR",
@@ -2285,7 +2570,8 @@
         "especialidade": "CARDIOLOGIA, ANGIOLOGIA, ENDOCRINOLOGIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LEVI SAÚDE INTEGRADA",
@@ -2293,7 +2579,8 @@
         "especialidade": "PSICOLOGIA ,FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLIPS",
@@ -2301,7 +2588,8 @@
         "especialidade": "PSICOLOGIA , PSIQUIATRIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VALLON DERMATOLOGIA E OFTALMOLOGIA",
@@ -2309,7 +2597,8 @@
         "especialidade": "OFTALMOLOGIA, DERMATOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICOB",
@@ -2317,7 +2606,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO MÉDICO SÃO MIGUEL",
@@ -2325,7 +2615,8 @@
         "especialidade": "GASTROENTEROLOGIA, CIRURGIA DO APARELHO DIGESTIVO NUTRIÇÃO, PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ENDOCENTRO",
@@ -2333,7 +2624,8 @@
         "especialidade": "GASTROENTEROLOGIA, ENDOSCOPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA FEMMINA",
@@ -2341,7 +2633,8 @@
         "especialidade": "CARDIOLOGIA, CLINICA MEDICA, ORTOPEDIA, PATOLÓGICA CLÍNICA /MEDICINA LABORATORIAL, RADIOLOGIA  DIAGNÓSTICO POR IMAGEM,  PSICOLOGIA, FISIOTERAPIA, NUTRIÇÃO, DERMATOLOGIA",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "APROSS",
@@ -2349,7 +2642,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA VASCULAR, CARDIOLOGIA, CIRURGIA CARDIOVASCULAR, ORTOPEDIA E TRAUMATOLOGIA, CIRURGIA GERAL, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA PLÁSTICA, CIRURGIA DA MÃO, CLINICA MEDICA, COLOPRCTOLOGIA, ENDOSCOPIA, GASTRONTEROLOGIA, GINECOLOGIA E OBSTETRICIA, HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA, MEDICINA INTENSIVA, NEFROLOGIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, PSIQUIATRIA, REUMATOLOGIA, UROLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NASO",
@@ -2357,7 +2651,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOCENTRO",
@@ -2365,7 +2660,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ANA MAIA",
@@ -2373,7 +2669,8 @@
         "especialidade": "NUTROLOGIA, DERMATOLOGIA, GINECOLOGIA, ENDOCRINOLOGIA, REUMATOLOGIA, NUTRIÇÃO, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, UROLOGIA, CLINICA MÉDICA ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AMAI",
@@ -2381,7 +2678,8 @@
         "especialidade": "\nALERGOLOGIA,ANGIOLOGIA,VASCULAR,\nCARDIOLOGIA, CIRURGIA CARDIOVASCULAR, \nCIRURGIA DA MÃO, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA DO APARELHO DIGESTIVO, CIRUGIA GERAL, CIRUGIA PLASTICA, CIRUGIA TORACICA, CLINICA MEDICA, DERMATOLOGIA, ENDOCRINOLOGIA, ENDOSCOPIA, FONOAUDIOLOGIA, GASTROENTEROLOGIA (ADULTO E PEDIATRICO) \nGERIATRIA,\nGINECOLOGIA E OBSTETRICIA, HEMATOLOGIA E HEMOTERAPIA, INFECTOLOGIA, MASTOLOGIA, NEFROLOGIA, NUTRIÇÃO, NUTROLOGIA, OFTALMOLOGIA, ONCOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA (ADULTO E PEDIATRICO) PROCTOLOGIA, PSICOLOGIA, PSIQUIATRIA, QUIMIOTERAPIA, RADIOTERAPIA, UROLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM\n",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO MÉDICO DAMA",
@@ -2389,7 +2687,8 @@
         "especialidade": "GINECOLOGIA, CLINICA MÉDICA, REUMATOLOGIA, ENDOCRINOLOGIA, ORTOPEDIA, NUTRIÇÃO, CARDIOLOGIA, NUTROLOGIA,  DERMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISOMED INTEGRATIVE",
@@ -2397,7 +2696,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOTRAUMA",
@@ -2405,7 +2705,8 @@
         "especialidade": "FISIOTERAPIA, ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NUTROLOGIA DF",
@@ -2413,7 +2714,8 @@
         "especialidade": "NUTROLOGIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GASTROVIE",
@@ -2421,7 +2723,8 @@
         "especialidade": " GASTROENTEROLOGIA, COLOPROCTOLOGIA, CLINICO GERAL, ENDOSCOPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "REACTIVE FISIOTERAPIA",
@@ -2429,7 +2732,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "REACTIVE FISIOTERAPIA",
@@ -2437,7 +2741,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINIMÉDICOS",
@@ -2445,7 +2750,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CLINICA MÉDICA, CLINICO GERAL, DERMATOLOGIA, ENDOCRINOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRÍCIA, HEMATOLOGIA, NEUROCIRURGIA, NUTRIÇÃO, ORTOPEDIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PNEUMOLOGIA, PSICOLOGIA, UROLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MILETTO UROLOGIA E ESPECIALIDADES MÉDICAS",
@@ -2453,7 +2759,8 @@
         "especialidade": "UROLOGIA, COLOPROCTOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GASTRO E FÍGADO",
@@ -2461,7 +2768,8 @@
         "especialidade": "CLINICA MÉDICA, GASTROENTEROLOGIA, HEMATOLOGIA, COLOPROCTOLOGIA, ENDOCRINOLOGIA E METABOLOGIA , NUTRIÇÃO, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOLIFE",
@@ -2469,7 +2777,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DR. SANDRO SANTANA",
@@ -2477,7 +2786,8 @@
         "especialidade": "CLINICA MÉDICA,  DERMATOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CAPITAL DERMA",
@@ -2485,7 +2795,8 @@
         "especialidade": "DERMATOLOGIA , CIRURGIA VASCULAR",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO PHYSIO - PILATES E RPG",
@@ -2493,7 +2804,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DR. JOÃO EUGÊNIO",
@@ -2501,7 +2813,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CITOPREV",
@@ -2509,7 +2822,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDCEI",
@@ -2517,7 +2831,8 @@
         "especialidade": "DERMATOLOGIA, UROLOGIA, PEDIATRIA, ORTOPEDIA, E TRAUMATOLOGIA, NUTRIÇÃO, OTORRINOLARINGOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO BRASILIENSE",
@@ -2525,7 +2840,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ESPECIALE",
@@ -2533,7 +2849,8 @@
         "especialidade": "PSIQUIATRIA, PSICOLOGIA, ENDOCRINOLOGIA PEDIÁTRICA, NEUROLOGIA, FONOAUDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INEB - INSTITUTO DE NEFROLOGIA DE BRASÍLIA",
@@ -2541,7 +2858,8 @@
         "especialidade": "NEFROLOGIA ",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COTP",
@@ -2549,7 +2867,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UROMEDICAL",
@@ -2557,7 +2876,8 @@
         "especialidade": "UROLOGIA, FISIOTERAPIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTOCENTRO",
@@ -2565,7 +2885,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DIÁLOGO",
@@ -2573,7 +2894,8 @@
         "especialidade": "PSICOLOGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVA MULTICLÍNICA",
@@ -2581,7 +2903,8 @@
         "especialidade": "PSICOLOGIA ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BRASÍLIA NEUROCLÍNICA",
@@ -2589,7 +2912,8 @@
         "especialidade": "NEUROLOGIA (ADULTO E PEDIATRICO),  NEUROCIRURGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA ETCA",
@@ -2597,7 +2921,8 @@
         "especialidade": "PSICOLOGIA, PEDIATRIA, NEUROLOGIA (PEDIATRICO) FONOAUDIOLOGIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INTERSEÇÃO PSICOLOFIA CLÍNICA E APLICADA",
@@ -2605,7 +2930,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CEUTA UROLOGIA",
@@ -2613,7 +2939,8 @@
         "especialidade": "UROLOGIA, GINECOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO ANALISES",
@@ -2621,7 +2948,8 @@
         "especialidade": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINICORDIS BRASÍLIA",
@@ -2629,7 +2957,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDIDA IDEAL",
@@ -2637,7 +2966,8 @@
         "especialidade": "NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DR. MARÇAL",
@@ -2645,7 +2975,8 @@
         "especialidade": "CLINICA MÉDICA ,  ENDOCRINOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CIMED",
@@ -2653,7 +2984,8 @@
         "especialidade": "CARDIOLOGIA, CLINICA MÉDICA, PNEUMOLOGIA, GINECOLOGIA, ANGIOLOGIA, NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CORPO E MENTE",
@@ -2661,7 +2993,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISÃO INSTITUTOS OFTALMOLÓGICOS ASSOCIADOS",
@@ -2669,7 +3002,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDNÚCLEO",
@@ -2677,7 +3011,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CLINICA MEDICA, DERMATOLOGIA, ENDOCRINOLOGIA, GASTROENTEROLOGIA, GERIATRIA, GINECOLOGIA E OBSTETN'CIA, NEUROLOGIA, NUTRIÇAO, OFTALMOLOGIA, ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PSICOLOGIA, REUMATOLOGIA, UROLOGIA, CIRURGIA GERAL, PEDIATRIA,RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "NÚCLEO BANDEIRANTE ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOLAGO",
@@ -2685,7 +3020,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO CRIARTE CLÍNICA MULTIDISCIPLINAR",
@@ -2693,7 +3029,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, NUTRIÇÃO , FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AC CLÍNICA",
@@ -2701,7 +3038,8 @@
         "especialidade": "CIRURGIA PLÁSTICA, DERMATOLOGIA, MASTOLOGIA,  NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DO SONO E HOSPITAL OTORRINO OTOFACE",
@@ -2709,7 +3047,8 @@
         "especialidade": "\nOTORRINOLARINGOLOGIA (ADULTO E PEDIATRICO) FONOAUDIOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINCORPO",
@@ -2717,7 +3056,8 @@
         "especialidade": "ENDOCRINOLOGIA, PEDIATRIA, PSICOLOGIA, NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ACB",
@@ -2725,7 +3065,8 @@
         "especialidade": "ANESTESIOLOGIA, \nANGIOLOGIA,\nCARDIOLOGIA (ADULTO E PEDIATRICO),CIRURGIA PEDIATRICA,\nCIRURGIA GERAL, CIRURGIA DE CABEGA E PESCOÇO,CLINICA MEDICA,\nCIRURGIA PLASTICA, CIRURGIA VASCULAR, \nCIRURGIA TORACICA,DERMATOLOGIA,FISIOTERAPIA, \nENDOSCOPIA, ENDOCRINOLOGIA, \nGINECOLOGIA/OBSTETRÍCIA,GERIATRIA, \nHEMATOLOGIA, INFECTOLOGIA, MASTOLOGIA,\nMEDICINA NUCLEAR, NEFROLOGIA,NEUROCIRURGIA, \nNEUROLOGIA (ADULTO E PEDIATRICO),NUTRIGAO,ONCOLOGIA, \nORTOPEDIA E TRAUMATOLOGIA, OFTALMOLOGIA,PEDIATRIA,\nOTORRINOLARINGOLOGIA, PNEUMOLOGIA, PSICOLOGIA,PSIQUIATRIA,REUMATOLOGIA, UROLOGIA, \nRADIOLOGIA E DIAGNOSTICO POR IMAGEM\n",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IOS - INSTITUTO DE ORTOPEDIA DE SOBRADINHO",
@@ -2733,7 +3074,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DA PLÁSTICA DF",
@@ -2741,7 +3083,8 @@
         "especialidade": "PRONTO ATENDIMENTO, UROLOGIA, CIRURGIA GERAL CIRURGIA PLÁSTICA, CIRURGIA DE CABEÇA E PESCOÇO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GAMACOR/CARDIOVITA",
@@ -2749,7 +3092,8 @@
         "especialidade": "CARDIOLOGIA, PSICOLOGIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BEM ESTAR",
@@ -2757,7 +3101,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, NUTRIÇÃO, PSIQUIATRIA.",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA NORTE",
@@ -2765,7 +3110,8 @@
         "especialidade": "PRONTO ATENDIMENTO, ALERGIA E IMUNOLOGIA,ANGIOLOGIA CIRURGIA VASCULAR,CANCEROLOGIA, CARDIOLOGIA,CIRURGIA, CARDIOVASCULAR,CIRURGIA DE MAO, \nCIRURGIA DO APARELHO DIGESTIVE,CIRURGIA GERAL. \nCIRURGIA PLASTICA, CIRURGIA TORACICA, CLNICA MEDICA,COLOPROCTOLOGIA, ENDOSCOPIA,\nGASTROENTEROLOGIA,\nGINECOLOGIA E OBSTETRÍCIA, \nHEMATOLOGIA, HEMOTERAPIA,MASTOLOGIA,\nMEDICINA FÍSICA E REABILITAÇÃO, \nMEDICINA INTENSIVA, NEFROLOGIA,NEUROLOGIA,\nNEUROCIRURGIA,NUTRIÇÃO,NUTROLOGIA,\nORTOPEDIA E TRAUMATALOGIA,ONCOLOGIA,\nOTORRINOLARINGOLOGIA,PEDIATRIA,UROLOGIA,ANESTESIOLOGIA,RADIOLOGIA E DIAGNOSTICO POR IMAGEM, MEDICINA NUCLEAR,\nPATOLOGIA CLINICA/MEDICINA LABORATORIAL,\nRADIOLOGIA E DIAGNOSTICO POR IMAGEM\n",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA SUL",
@@ -2773,7 +3119,8 @@
         "especialidade": "RADIOTERAPIA,PEDIATRIA, GINECOLOGIA E OBSTETRICIA, MEDICINA INTENSIVA, PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLINICO DIEM",
@@ -2781,7 +3128,8 @@
         "especialidade": "CARDIOLOGIA, CIRURGIA VASCULAR, CLINICA MÉDICA, DERMATOLOGIA, ENDOCRINOLOGIA, GERIATRIA, GINECOLOGIA, NUTRIÇÃO, NUTROLOGIA, OFTALMOLOGIA, PSIQUIATRIA, NEUROLOGIA E RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INTERBRASILIA MEDICINA E SAÚDE DO CORAÇÃO",
@@ -2789,7 +3137,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LA FEMME GINECOLOGIA DE EXCELÊNCIA",
@@ -2797,7 +3146,8 @@
         "especialidade": "GINECOLOGIA E OBSTETRÍCIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA FLORESCER",
@@ -2805,7 +3155,8 @@
         "especialidade": "PSICOLOGIA, PEDIATRIA, FONOAUDIOLOGIA, NUTRIÇÃO",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIO E TERAPIA",
@@ -2813,7 +3164,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DAVITA",
@@ -2821,7 +3173,8 @@
         "especialidade": "NEFROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SORT",
@@ -2829,7 +3182,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, CLINICA MÉDICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DE OLHOS SOBRADINHO SALUTE",
@@ -2837,7 +3191,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COMENTH CARE OF MENTAL HEALTH",
@@ -2845,7 +3200,8 @@
         "especialidade": "PSIQUIATRIA , PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA IBED",
@@ -2853,7 +3209,8 @@
         "especialidade": "GASTROENTEROLOGIA, COLOPROCTOLOGIA, CLINICA MÉDICA, CIRURGIA GERAL, DERMATOLOGIA , ANESTESIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ABBIA",
@@ -2861,7 +3218,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOSUL CLÍNICA",
@@ -2869,7 +3227,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SEG ENDOSCOPIA",
@@ -2877,7 +3236,8 @@
         "especialidade": "COLOPROCTOLOIGA,  GASTROENTEROLOGIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AMPIEZZA CLÍNICAS INTEGRADAS",
@@ -2885,7 +3245,8 @@
         "especialidade": "FISIOTERAPIA, PSICOLOGIA, NUTRIÇÃO ,FONOAUDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLAF - CLÍNICA DE ATENDIMENTO DA FAMILIA",
@@ -2893,7 +3254,8 @@
         "especialidade": "CIRURGIA VASCULAR, ENDOCRINOLOGIA, GINECOLOGIA E OBSTETRICIA, MASTOLOGIA E NUTROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISION OFTALMOLOGIA SUDOESTE",
@@ -2901,7 +3263,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA CARDIOLIFE",
@@ -2909,7 +3272,8 @@
         "especialidade": "CARDIOLOGIA, CLINICA MÉDICA, ORTOPEDIA, PEDIATRIA, DERMATOLOGIA, ENDOCRINOLOGIA, GINECOLOGIA, PSIQUIATRIA, ANGIOLOGIA, NEUROLOGIA, GASTROENTEROLOGIA, GERIATRIA, NUTRIÇÃO. PSICOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GASTRUS CLINIC",
@@ -2917,7 +3281,8 @@
         "especialidade": "GASTROENTEROLOGIA, COLOPROCTOLOGIA (ADULTO E PEDIÁTRICO), CIRURGIA DO APARELHO DIGESTIVO, UROLOGIA, FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICTCOR - INSTITUTO DO CORAÇÃO",
@@ -2925,7 +3290,8 @@
         "especialidade": "CARDIOLOGIA (ADULTO E PEDIATRICO), CIRURGIA CARDIOVASCULAR,  ANGIOLOGIA, CIRRURGIA VASCULA, NEUROLOGIA, PSICOLOGIA,RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SENSE GINECOLOGIA",
@@ -2933,7 +3299,8 @@
         "especialidade": "GINECOLOGIA, MASTOLOGIA,  FISIOTERAPIA,CIRURGIA GERAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SANTA CLARA",
@@ -2941,7 +3308,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AUTOIMUNO CLÍNICAS ESPECIALIZADAS",
@@ -2949,7 +3317,8 @@
         "especialidade": "CARDIOLOGIA, CLINICA MÉDICA, ENDOCRINOLOGIA, NUTRIÇÃO, ORTOPEDIA, PEDIATRIA, REUMATOLOGIA (ADULTO E PEDIATRICO) GASTROENTEROLOGIA,RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CAMI",
@@ -2957,7 +3326,8 @@
         "especialidade": "PSICOLOGIA ",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOEMOV",
@@ -2965,7 +3335,8 @@
         "especialidade": "FISIOTERAPIA, PSICOLOGIA, NUTRIÇÃO FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOFITNESS",
@@ -2973,7 +3344,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CLINICA GERAL, CLINICA MEDICA, NUTRIÇÃO ORTOPEDIA, PSICOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, UROLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "EXATO LABORATÓRIO",
@@ -2981,7 +3353,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "POLISSONO NORTE",
@@ -2989,7 +3362,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, PSICOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AME - ASSISTÊNCIA MENTAL",
@@ -2997,7 +3371,8 @@
         "especialidade": "PSICOLOGIA, PSIQUIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CHECKUP UROLÓGICO",
@@ -3005,7 +3380,8 @@
         "especialidade": "UROLOGIA, FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "URODIAGNÓSTICO",
@@ -3013,7 +3389,8 @@
         "especialidade": "UROLOGIA, CARDIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CETTRO FISIOTERAPIA ESPECIALIZADA",
@@ -3021,7 +3398,8 @@
         "especialidade": "FISIOTERAPIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO DOM BOSCO",
@@ -3029,7 +3407,8 @@
         "especialidade": "GENETICA MÉDICA, HEMATOLOGIA E HEMOTERAPIA, PATOLOGIA CLINICA MEDICINAL LABORATORIAL",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VERSE IN VERSE DIA",
@@ -3037,7 +3416,8 @@
         "especialidade": "PSICOLOGIA, PSIQUIATRIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA PRATICAR",
@@ -3045,7 +3425,8 @@
         "especialidade": "FISIOTERAPIA, FONOAUDIOLOGIA, PSICOLOGIA ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CARDIOBRASÍLIA",
@@ -3053,7 +3434,8 @@
         "especialidade": "CIRURGIA CARDIOVASCULAR, CIRURGIA VASCULAR, CARDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA RECANTO",
@@ -3061,7 +3443,8 @@
         "especialidade": "PSIQUIATRIA, PSICOLOGIA",
         "bairro": "CEILÂNDIA ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FORÇA FISIOTERAPIA E ORTOPEDIA",
@@ -3069,7 +3452,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO LABIN-MED",
@@ -3077,7 +3461,8 @@
         "especialidade": "PATOLOGIA CLÍNICA /  MEDICINA LABORATORIAL",
         "bairro": "RECANTO DAS EMAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DE OLHOS DO GAMA",
@@ -3085,7 +3470,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INOB",
@@ -3093,7 +3479,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE OTORRINOLARINGOLOGIA DA ASA NORTE",
@@ -3101,7 +3488,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FLORESCER ESPAÇO CLÍNICO",
@@ -3109,7 +3497,8 @@
         "especialidade": "PSICOLOGIA, NUTRIÇÃO,FONOAUDIOLOGIA.",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SANPELE DERMATOLOGIA",
@@ -3117,7 +3506,8 @@
         "especialidade": "DERMATOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA INTERSER",
@@ -3125,7 +3515,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, NUTRIÇÃO, FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDCEU - MEDICNA EM IMAGEM",
@@ -3133,7 +3524,8 @@
         "especialidade": "GINECOLOGIA E OBSTETRICIA, MASTOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NEUROPRIME",
@@ -3141,7 +3533,8 @@
         "especialidade": "GINECOLOGIA E OBSTETRICIA, MASTOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISÃO INSTITUTOS OFTALMOLÓGICOS",
@@ -3149,7 +3542,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTO CLÍNICA",
@@ -3157,7 +3551,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DE FISIOTERAPIA REABILITAÇÃO TOTAL",
@@ -3165,7 +3560,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO ELO",
@@ -3173,7 +3569,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINOR",
@@ -3181,7 +3578,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTORRINODF",
@@ -3189,7 +3587,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTORRINODF",
@@ -3197,7 +3596,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OTORRINODF",
@@ -3205,7 +3605,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "REDEFINE SAÚDE E BEM ESTAR",
@@ -3213,7 +3614,8 @@
         "especialidade": "GINECOLOGIA E OBSTETRÍCIA, UROLOGIA, NEUROCIRURGIA, CLÍNICA MÉDICA, ENDOCRINOLOGIA E METABOLOGIA, NUTRIÇÃO, FISIOTERAPIA, PSICOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO LIFE",
@@ -3221,7 +3623,8 @@
         "especialidade": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL , RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DAVI HECKMANN",
@@ -3229,7 +3632,8 @@
         "especialidade": "ANGIOLOGIA, CIRURGIA GERAL, CIRURGIA VASCULAR.",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA PROCAD",
@@ -3237,7 +3641,8 @@
         "especialidade": "CIRURGIA GERAL, CLÍNICA MÉDICA, GASTROENTEROLOGIA, ENDOSCOPIA , COLONOSCOPIA.",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LM SERVIÇOS MÉDICOS",
@@ -3245,7 +3650,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PROMEDERI",
@@ -3253,7 +3659,8 @@
         "especialidade": "ENDOCRINOLOGIA, PEDIATRIA, PSICOLOGIA,  NUTRIÇÃO, CIRURGIA VASCULAR, ORTOPEDIA E TRAUMATOLOGIA, ANGIOLOGIA, CIRURGIA GERAL, CIRURGIA PLÁSTICA, CIRURGIA DO APARELHO DIGESTIVO, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RECOMEÇAR FISIOTERAPIA",
@@ -3261,7 +3668,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "CANDANGOLÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIANNA MEDICINA AVANÇADA",
@@ -3269,7 +3677,8 @@
         "especialidade": "CARDIOLOGIA, ENDOCRINOLOGIA E METABOLOGIA, GASTROENTEROLOGIA, HEPATOLOGIA, NUTRIÇÃO, PEDIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVAA DIGNÓSTICOS",
@@ -3277,7 +3686,8 @@
         "especialidade": "GASTROENTEROLOGIA, CLÍNICA MÉDICA, REUMATOLOGIA, NEUROCIRURGIA, ORTOPEDIA E TRAUMATOLOGIA, PSICOLOGIA, NUTRIÇÃO, ANESTESIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SINAPSE NEUROLOGIA",
@@ -3285,7 +3695,8 @@
         "especialidade": "CARDIOLOGIA, NEUROLOGIA, CLÍNICA MEDICA, NEUROCIRURGIA, PSIQUIATRIA, PSICOLOGIA, NUTRIÇÃO, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO CV REUMATOLOGIA ",
@@ -3293,7 +3704,8 @@
         "especialidade": "REUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOB BRASILIA",
@@ -3301,7 +3713,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOB BRASILIA",
@@ -3309,7 +3722,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOB BRASILIA",
@@ -3317,7 +3731,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOB BRASILIA",
@@ -3325,7 +3740,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA REABILIT - ESPAÇO SAÚDE",
@@ -3333,7 +3749,8 @@
         "especialidade": "FISIOTERAPIA, REUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SALUS TRATA",
@@ -3341,7 +3758,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, FISIOTERPIA, CLÍNICA MÉDICA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL ANCHIETA",
@@ -3349,7 +3767,8 @@
         "especialidade": "PRONTO ATENDIMENTO, ALERGIA E IMUNOLOGIA, ANGIOLOGIA, CARDIOLOGIA (ADULTO E PEDIÁTRICO) CIRURGIA CABEÇA E PESCOÇO, CIRURGIA CARDIOVASCULAR,  CIRURGIA GERAL,CIRURGIA PLÁSTICA, CIRURGIA TORÁCICA, CIRURGIA VASCULAR, CLÍNICA MÉDICA, COLOPROCTOLOGIA, DERMATOLOGIA, ENDOCRINOLOGIA, OFTALMOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRÍCIA, GERIATRIA, HEMATOLOGIA, MASTOLOGIA, PSIQUIATRIA, INFECTOLOGIA, NEFROLOGIA (ADULTO E PEDIÁTRICO) NEUROLOGIA, NEUROCIRURGIA, CIRURGIA APARELHO DIGESTIVO,  ORTOPEDIA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA,  NUTROLOGIA,  PENEUMOLOGIA, PROCTOLOGIA, REUMATOLOGIA, UROLOGIA, MEDICINA INTENSIVA (ADULTO E PEDIÁTICO),  NUTRIÇÃO, PSICOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, ANESTESIOLOAGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, MEDICINA NUCLEAR, PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL\n",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO PHYSIO",
@@ -3357,7 +3776,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VISÃO INSTITUTO OFTALMOLÓGICOS ASSOCIADOS",
@@ -3365,7 +3785,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA OTORRINO OSWALDO NASCIMENTO",
@@ -3373,7 +3794,8 @@
         "especialidade": "OTORRINOLARINGOLOGIA, FONOAUDIOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "OMNI VIDA",
@@ -3381,7 +3803,8 @@
         "especialidade": "CLINICA MÉDICA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO EQUILIBRIUM - MENTE CORPO E SAÚDE",
@@ -3389,7 +3812,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, PSIQUIATRIA, CLINICA MÉDICA, PEDIATRIA , NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CONFIARE INSTITUTO CLÍNICO",
@@ -3397,7 +3821,8 @@
         "especialidade": "PSIQUIATRIA,PEDIATRIA, PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MIX IMAGEM",
@@ -3405,7 +3830,8 @@
         "especialidade": "RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO DE ANEURISMA CEREBRAL",
@@ -3413,7 +3839,8 @@
         "especialidade": "NEUROLOGIA, NEUROCIRURGIA, PSIQUIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HONEY PSICOLOGIA CLÍNICA",
@@ -3421,7 +3848,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MINHA CLÍNICA",
@@ -3429,7 +3857,8 @@
         "especialidade": "CARDIOLOGIA, ENDOCRINOLOGIA, NUTRIÇÃO, PSICOLOGIA, UROLOGIA, CLÍNICA MÉDICA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM, PATOLOGIA CLÍNICA/MEDICIINA LABORATORIAL",
         "bairro": "PARANOÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIO-GAMA",
@@ -3437,7 +3866,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ASSIM - ASSISTÊNCIA À SAÚDE INTEGRADA",
@@ -3445,7 +3875,8 @@
         "especialidade": "PSICOLOGIA, FONOAUDIOLOGIA, NUTRIÇÃO",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PROCTOMED",
@@ -3453,7 +3884,8 @@
         "especialidade": "COLOPROCTOLOGIA, CIRURGIA GERAL",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA RENAL VIDA",
@@ -3461,7 +3893,8 @@
         "especialidade": "NEFROLOGIA, FISIOTERAPIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CCOR CENTRO DE CARDIOLOGIA",
@@ -3469,7 +3902,8 @@
         "especialidade": "CARDIOLOGIA, ANGIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE CARDIOLOGIA DO DISTRITO FEDERAL",
@@ -3477,7 +3911,8 @@
         "especialidade": "CARDIOLOGIA\nCARDIOLOGIA PEDIÁTRICA\nCIRURGIA CARDIOVASCULAR\nHEMATOLOGIA E HEMOTERAPIA\nNEFROLOGIA\nGASTROENTEROLOGIA\nHEPATOLOGIA\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM\nPATOLOGIA CLÍNICA/MEDICINA LABORATORIAL",
         "bairro": "CRUZEIRO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA BRASÍLIA ESPECIALIDADES MÉDICAS",
@@ -3485,7 +3920,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA GERAL, CIRURGIA, VASCULAR, CLÍNICA MÉDICA, ENDOCRINOLOGIA (ADULTO E PEDIATRICO), GINECOLOGIA, HOMEOPATIA, MASTOLOGIA, NEUROLOGIA, NEUROCIRURGIA, ORTOPEDIA, PSICOLOGIA, PSIQUIATRIA, NUTRIÇÃO, ANESTESIOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CMMO MARCELO OLIVEIRA",
@@ -3493,7 +3929,8 @@
         "especialidade": "OFTALMOLOGIA, ENDOCRINOLOGIA, NUTRIÇÃO, UROLOGIA, MASTOLOGIA, GINECOLOGIA, CIRURGIA GERAL, PSICOLOGIA, OTORRINOLARINGOLOGIA, PSIQUIATRIA, CARDIOLOGIA, CLÍNICO GERAL, REUMATOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA BEM ESTAR FISIOTERAPIA E ESTÉTICA",
@@ -3501,7 +3938,8 @@
         "especialidade": "FISIOTERAPIA, NUTRIÇÃO",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MIPSIC",
@@ -3509,7 +3947,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "G S H CORP PARTICIPAÇÕES S.A",
@@ -3517,7 +3956,8 @@
         "especialidade": "HEMOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DERMACLINIC",
@@ -3525,7 +3965,8 @@
         "especialidade": "DERMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRAL DA SAÚDE",
@@ -3533,7 +3974,8 @@
         "especialidade": "CLÍNICA MÉDICA, PEDIATRIA, ORTOPEDIA E TRAUMATOLOGIA, MASTOLOGIA, GINECOLOGIA E OBSTETRÍCIA, PSIQUIATRIA, CARDIOLOGIA, PSICOLOGIA, NUTRIÇÃO, FONOAUDIOLOGIA, FISIOTERAPIA, DERMATOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "SÃO SEBASTIÃO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DR. VIS - HOB SOBRADINHO",
@@ -3541,7 +3983,8 @@
         "especialidade": "OFTALMOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MOTUS FISIOTERAPIA",
@@ -3549,7 +3992,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE CARDIOLOGIA DE BRASÍLIA",
@@ -3557,7 +4001,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DANOVA HEALTH UP",
@@ -3565,7 +4010,8 @@
         "especialidade": "NUTRIÇÃO",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOCLIN BRASÍLIA",
@@ -3573,7 +4019,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "S E S PSICOLOGIA",
@@ -3581,7 +4028,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALPHA MULTICLÍNICA",
@@ -3589,7 +4037,8 @@
         "especialidade": "PSICOLOGIA, NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SION - CENTRO MÉDICO",
@@ -3597,7 +4046,8 @@
         "especialidade": "CIRURGIA GERAL, CLÍNICA MÉDICA, COLOPROCTOLOGIA, DERMATOLOGIA, GASTROENTEROLOGIA, GINECOLOGIA E OBSTETRICIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM.",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALERGO VACCINE",
@@ -3605,7 +4055,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA, PEDIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA PRODIGEST",
@@ -3613,7 +4064,8 @@
         "especialidade": "COLOPROCTOLOGIA, GASTROENTEROLOGIA, HEPATOLOGIA, ENDOSCOPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CDT DIAGNÓSTICOS",
@@ -3621,7 +4073,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO EM IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NA NEUROLOGISTAS ASSOCIADOS",
@@ -3629,7 +4082,8 @@
         "especialidade": "NEUROLOGIA (ADULTO E PEDIATRICO)",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UNIQUE ORTOPEDIA E FISIOTERAPIA",
@@ -3637,7 +4091,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA, FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IOME",
@@ -3645,7 +4100,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO TREVO",
@@ -3653,7 +4109,8 @@
         "especialidade": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONEPHYSIO ESPAÇO SAÚDE E BEM ESTAR",
@@ -3661,7 +4118,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO AMPARE DE PSICOLOGIA E SAÚDE",
@@ -3669,7 +4127,8 @@
         "especialidade": "FISIOTERAPIA, FONOAUDIOLOGIA, PSICOLOGIA, NUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IN PONDERA PSICOTERAPIAS",
@@ -3677,7 +4136,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CAMOMILA SAÚDE E EQUILIBRIO",
@@ -3685,7 +4145,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO UROLÓGICO DE CEILÂNDIA",
@@ -3693,7 +4154,8 @@
         "especialidade": "UROLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINICOR",
@@ -3701,7 +4163,8 @@
         "especialidade": "CARDIOLOGIA, NEUROCIRURGIA, NUTRIÇÃO, CLINICA MÉDICA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICD - INSTITUTO DE CIRURGIA DIGESTIVA",
@@ -3709,7 +4172,8 @@
         "especialidade": "CIRURGIA GERAL, ONCOLOGIA, PROCTOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIO ANCHIETA",
@@ -3717,7 +4181,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AMENDOAR CLÍNICA DE PSICOLOGIA E SAÚDE",
@@ -3725,7 +4190,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBRAFONO ",
@@ -3733,7 +4199,8 @@
         "especialidade": "FONOAUDIOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SANTA MARIA",
@@ -3741,7 +4208,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA, CLÍNICA MÉDICA, CIRURGIA GERAL, ENDOCRINOLOGIA, GINECOLOIAE OBSTETRICIA, DERMATOLOGIA, PEDIATRIA, NEUROLOGIA, UROLOGIA, NUTRIÇÃO, DIAGNÓSTICO POR IMAGEM.",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO CLÍNICO RAINHA",
@@ -3749,7 +4217,8 @@
         "especialidade": "PSIQUIATRIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HDIA",
@@ -3757,7 +4226,8 @@
         "especialidade": "NUTROLOGIA, DERMATOLOGIA, GINECOLOGIA E OBSTETRÍCIA, NUTRIÇÃO, FONOAUDIOLOGIA, RADIOLOGIA E DIAGNOSTICO POR IMAGEM.",
         "bairro": "AGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTOPEDIA NOROESTE E CLÍNICA DA DOR",
@@ -3765,7 +4235,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "NOROESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBE - IMAGEM E DIAGNÓSTICO",
@@ -3773,7 +4244,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NUTSLIM",
@@ -3781,7 +4253,8 @@
         "especialidade": "NUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ATROS ORTOPEDIA",
@@ -3789,7 +4262,8 @@
         "especialidade": " ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NERI E MENDES OTORRINOLARINGOLOGIA",
@@ -3797,7 +4271,8 @@
         "especialidade": "FONOAUDIOLOGIA, OTORRINOLARINGOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FÍSICA FISIOTERAPIA INTEGRADA",
@@ -3805,7 +4280,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "Clínica do Bem Estar",
@@ -3813,7 +4289,8 @@
         "especialidade": "CLÍNICA MEDICA, GERIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "Atitude – Clínica Psicológica",
@@ -3821,7 +4298,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "Neo Fisioterapia e Pilates",
@@ -3829,7 +4307,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "Aprender Clínica Psicopedagogica",
@@ -3837,7 +4316,8 @@
         "especialidade": "FONOAUDIOLOGIA, PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL BRASÍLIA LAGO SUL",
@@ -3845,7 +4325,8 @@
         "especialidade": "PRONTO ATENDIMENTO, CLÍNICA MÉDICA, GINECOLOGIA/OBSTETRÍCIA, PEDIATRIA, ORTOPEDIA E TRAUMATOLOGIA, CIRURGIA GERAL, INFECTOLOGIA (ADULTO E PEDIATRICO), ANGIOLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CARDIOLOGIA (ADULTO E PEDIATRICO), COLOPROCTOLOGIA, MASTOLOGIA,  ENDOCRINOLOGIA (ADULTO E PEDIATRICO), MEDICINA INTENSIVA, CIRURGIA CARDIOVASCULAR (ADULTO E PEDIATRICO), GASTROENTEROLOGIA (ADULTO E PEDIATRICO), NEFROLOGIA (ADULTO E PEDIATRICO), GERIATRIA, NEUROCIRURGIA, CIRURGIA VASCULAR, HEMATOLOGIA (ADULTO E PEDIATRICO), NEUROLOGIA PEDIÁTRICA, COLONOSCOPIA, CIRURGIA DE CABEÇA E PESCOÇO, ONCOLOGIA, CIRURGIA TORÁCICA, HEPATOLOGIA, ONCOLOGIA PEDIÁTRICA, OTORRRINOLARINGOLOGIA,  PNEUMOLOGIA(ADULTO E PEDIATRICA),REUMATOLOGIA(ADULTO E PEDIATRICO,UROLOGIA, RADIOLOGIA INTERVENCIONISTA, FISIOTERAPIA,  ENDOSCOPIA,  DERMATOLOGIA, CIRURGIA PLÁSTICA, NUTROLOGIA,  NUTRIÇÃO, PSICOLOGIA, PSICOTERAPIA, FONOAUDIOLOGIA, ANESTESIOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RINNOVARE",
@@ -3853,7 +4334,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA\nCIRURGIÃO PLÁSTICA \n PATOLOGIA CLÍNICA /MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "Allegro CLÍNICA Psicologica",
@@ -3861,7 +4343,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "NUTTRYL",
@@ -3869,7 +4352,8 @@
         "especialidade": "NUTRIÇÃO",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL JARDIM BOTÂNICO",
@@ -3877,7 +4361,8 @@
         "especialidade": "ANGIOLOGIA, CARDIOLOGIA, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA GERAL, CIRURGIA VASCULAR, CIRURGIA PLÁSTICA, CLÍNICA MÉDICA, ENDOCRINOLOGIA, FISIOTERAPIA, GASTROENTEROLOGIA, GINECOLOGIA/OBSTETRÍCIA, NEUROLOGIA, NEUROCIRURGIA, NUTRIÇÃO, OFTALMOLOGIA, ORTOPEDIA, OTORRINOLARINGOLOGIA, PEDIATRIA, PSIQUIATRIA, UROLOGIA, COLOPROCTOLOGIA, RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "Lago Sul",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "EYE CENTER",
@@ -3885,7 +4370,8 @@
         "especialidade": "OFTALMOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "A ATRIOS CARDIOLOGIA E ESPECIALIDADES MEDICAS",
@@ -3893,7 +4379,8 @@
         "especialidade": "CARDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTROPSI REFERENCIA EM PSICOLOGIA",
@@ -3901,7 +4388,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SÍRIO LIBANÊS – Unidade Brasília IV",
@@ -3909,7 +4397,8 @@
         "especialidade": "CARDIOLOGIA, BANCO DE SANGUE, ELETROENCEFALOGRAFIA E NEUROFISIOLOGIA CLÍNICA, ENDOSCOPIA, COLONOSCOPIA, ONCOLOGIA CLÍNICA, DIÁLISE, MASTOLOGIA, HEMATOLOGIA, CIRURGIAS GERAIS, ALERGOLOGIA, ANGIOLOGIA, CIRURGIA CABEÇA E PESCOÇO, CIRURGIA PLÁSTICA, DERMATOLOGIA, ENDOCRINOLOGIA, PSIQUIATRIA, GASTROENTEROLOGIA, GERIATRIA, GINECOLOGIA, INFECTOLOGIA, NEFROLOGIA, NEUROLOGIA, NEUROCIRURGIA, CIRURGIA DO APARELHO DIGESTIVO, PNEUMOLOGIA, PROCTOLOGIA, REUMATOLOGIA, UROLOGIA, ASSISTÊNCIA MÉDICA E SERVIÇOS AUXILIARES DE DIAGNÓSTICO E TERAPIA, NÚCLEO AVANÇADO DO TÓRAX, MEDICINA AVANÇADA, MEDICINA FÍSICA E REABILITAÇÃO, GENÉTICA, HEMOTERAPIA, FISIOLOGIA E MOTILIDADE DIGESTIVA, LITROTRIPCIA, CENTRO DE REABILITAÇÃO,  MEDICINA LABORATORIAL, ANÁLISES CLÍNICAS, ANATOMOPATOLÓGICO, PATOLOGIA CLÍNICA, TISIOPNEUMOLOGIA, CITOPATOLÓGICO, GENÉTICA, SERVIÇOS DE PROFISSIONAIS NA ÁREA DE SAÚDE DE NUTRIÇÃO, FISIOTERAPIA, FONOAUDIOLOGIA, SERVIÇOS DE ANESTESIOLOGIA, SERVIÇOS DE DIAGNÓSTICO POR IMAGEM, ECOGRAFIAS, RESSONÂNCIA MAGNÉTICA, RADIOLOGIA GERAL, RADIOLOGIA INTERVENCIONISTA, TOMOGRAFIA COMPUTADORIZADA, ULTRASSONOGRAFIA, VÍDEO EEG, SERVIÇOS LABORATORIAIS",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DRA. VANESSA GUILHERME LIMA",
@@ -3917,7 +4406,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "KANDO FISIOTERAPIA E SAÚDE",
@@ -3925,7 +4415,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DF CARE HOSPITAL",
@@ -3933,7 +4424,8 @@
         "especialidade": " GERIATRIA,\nCARDIOLOGIA,\nUROLOGIA,\nCLINICA MÉDICA,\nMEDICINA INTENSIVA,\nNEFROLOGIA",
         "bairro": "Lago Sul",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABORATÓRIO DE PATOLOGIA E CITOPATOLOGIA APLICADA",
@@ -3941,7 +4433,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL,  ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL ANNA NERY",
@@ -3949,7 +4442,8 @@
         "especialidade": "PRONTO ATENDIMENTO, NEFROLOGIA, NEUROLOGIA, OFTALMOLOGIA, ANESTESIOLOGIA, ANGIOLOGIA, CARDIOLOGIA, CIRURGIA CARDIOVASCULAR, CIRURGIA DE CABEÇA E PESCOÇO, CIRURGIA DO APARELHO DIGESTIVO, CIRUGIA GERAL, CIRUGIA PLASTICA, CIRURGIA TORACICA, CLINICA MEDICA, COLOPROCTOLOGIA, ENDOCRINOLOGIA E METABOLOGIA, GINECOLOGIA E OBSTETRICIA, DERMATOLOGIA, FISIOTERAPIA, FONOAUDIOLOGIA, NUTRIÇÃO, PNEUMOLOGIA, PSICOLOGIA, PSIQUIATRIA, HEMATOLOGIA E HEMOTERAPIA, MASTOLOGIA, ONCOLOGIA, ORTOPEIDA E TRAUMATOLOGIA, OTORRINOLARINGOLOGIA, PATOLOGIA CLINICA/MEDICINA LABORATORIAL, RADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ORTHOS",
@@ -3957,7 +4451,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "BEM ESTAR CLÍNICA DE PSICOLOGIA",
@@ -3965,7 +4460,8 @@
         "especialidade": "PSICOLOGIA,\nFISIOTERAPIA,\nFONOAUDIOLOGIA,\nNUTRIÇÃO",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SOS CORDIS",
@@ -3973,7 +4469,8 @@
         "especialidade": "CARDIOLOGIA,\nCLINICA MÉDICA,\nNUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESPAÇO SAÚDE",
@@ -3981,7 +4478,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ALLEGRO CLÍNICA PSICOLOGICA",
@@ -3989,7 +4487,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VITA CARE BRASILIA",
@@ -3997,7 +4496,8 @@
         "especialidade": "PSICOLOGIA\n PSIQUIATRIA,\nNUTRIÇÃO\nDERMATOLOGIA\nREUMATOLOGIA\nGERIATRIA\nNEUROLOGIA\nUROLOGIA\nCARDIOLOGIA\nENDOCRINOLOGIA\n FONOAUDIOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IOB INSTITUTO ORTOPEDICO DE BRASÍLIA",
@@ -4005,7 +4505,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOCENTER",
@@ -4013,7 +4514,8 @@
         "especialidade": "FISIOTERAPIA,\nNEUROLOGIA,\n ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONCOLOGY FILIAL",
@@ -4021,7 +4523,8 @@
         "especialidade": " ONCOLOGIA, REUMATOLOGIA, INFECTOLOGIA, ENDOCRINOLOGIA, GENÉTICA MÉDICA, NEFROLOGIA, CLÍNICA MÉDICA, GINECOLOGIA, NEUROLOGIA, NEUROCIRURGIA, CIRURGIA PLÁSTICA, CIRURGIA GERAL, ORTOPEDIA, CIRURGIA DE CABEÇA E PESCOÇO, UROLOGIA, CIRURGIA DO APARELHO DIGESTIVO, CIRURGIA TORÁCICA, HEMATOLOGIA, NUTRIÇÃO, DERMATOLOGIA, PSIQUIATRIA, GERIATRIA, ALERGIA/IMUNOLOGIA, OTORRINOLARINGOLOGIA, CIRURGIA VASCULAR, ANGIOLOGIA , MASTOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIOLABOR VITALI",
@@ -4029,7 +4532,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "NOROESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MULTIPLENITUDE",
@@ -4037,7 +4541,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "SOBRADINHO",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LIFE CHECK UP",
@@ -4045,7 +4550,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA\n CARDIOLOGIA\n MEDICINA FISICA E REABILITAÇÃO\n PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DF STAR",
@@ -4053,7 +4559,8 @@
         "especialidade": "RADIOTERAPIA  E DIAGNÓSTICO POR IMAGEM\nMEDICINA NUCLEAR",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL TOTAL HEALTH",
@@ -4061,7 +4568,8 @@
         "especialidade": "CLÍNICA MÉDICA\n GERIATRIA\nINFECTOLOGIA ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ICL",
@@ -4069,7 +4577,8 @@
         "especialidade": "CIRURGIA GERAL\n MASTOLOGIA \nOTORRINOLARINGOLOGISTA\nCIRURGIA VASCULAR\nCIRURGIA PLÁSTICA\n",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RECAP CENTRO DE ACOMPANHAMENTO PSICOPEDAGOGICO",
@@ -4077,7 +4586,8 @@
         "especialidade": "PSICOLOGIA,\nFONOAUDIOLOGIA,\nNUTRIÇÃO",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PREVENCOR",
@@ -4085,7 +4595,8 @@
         "especialidade": "CARDIOLOGIA,\nANGIOLOGIA,\n CIRURGIA VASCULAR,\nRADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "REHABILITA",
@@ -4093,7 +4604,8 @@
         "especialidade": "CLINICA MÉDICA,\nFISIOTERAPIA,\nFONOAUDIOLOGIA,\nNUTROLOGIA,\nPSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HDIA HOME CARE",
@@ -4101,7 +4613,8 @@
         "especialidade": "CLINICA MÉDICA,\nCARDIOLOGIA,\nFISIOTERAPIA,\nNUTRIÇÃO,\nPSIQUIATRIA,\nNUTROLOGIA,\nPSICOLOGIA,\nREUMATOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ONLIFE",
@@ -4109,7 +4622,8 @@
         "especialidade": "CLINICA MÉDICA\nFISIOTERAPIA\nFONOAUDIOLOGIA\nNUTROLOGIA\nPSICOLOGIA",
         "bairro": "NÚCLEO BANDEIRANTE ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VIVENTI HOME CARE",
@@ -4117,7 +4631,8 @@
         "especialidade": "CLINICA MÉDICA\n FISIOTERAPIA\nFONOAUDIOLOGIA\nNUTROLOGIA\nPSICOLOGIA",
         "bairro": "SIA ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "QUALITY HEALTH CARE",
@@ -4125,7 +4640,8 @@
         "especialidade": "CLINICA MEDICA,\nFISIOTERAPIA,\nGERIATRIA,\nNUTRIÇÃO",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CIH – CLÍNICA INTEGRAÇÃO HUMANA",
@@ -4133,7 +4649,8 @@
         "especialidade": "PSIQUIATRIA,\nCLINICA MÉDICA,\nNUTRIÇÃO,\nPSICOLOGIA",
         "bairro": "SANTA MARIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UNINEP",
@@ -4141,7 +4658,8 @@
         "especialidade": "NEUROLOGIA,\nNEUROCIRURGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": " INSTITUTO HEBREU",
@@ -4149,7 +4667,8 @@
         "especialidade": "NUTROLOGIA\nNUTRIÇÃO\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PREMIUM OFTALMOLOGIA",
@@ -4157,7 +4676,8 @@
         "especialidade": " OFTALMOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE PISCOLOGIA COGNIÇÃO",
@@ -4165,7 +4685,8 @@
         "especialidade": "PSICOLOGIA CLÍNICA, PSICOPEDAGOGIA E NEUROPSICOLOGIA)",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ATINGIR - PSICOTERAPIA E FONOAUDIOLOGIA",
@@ -4173,7 +4694,8 @@
         "especialidade": "PSICOLOGIA E FONOAUDIOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL AMMA",
@@ -4181,7 +4703,8 @@
         "especialidade": "PRONTO ATENDIMENTO, GINECOLOGIA E OBSTETRÍCIA\n ANGIOLOGIA\n CLÍNICA MÉDICA\nOTORRINOLARINGOLOGIA\nGASTROENTEROLOGIA\nFONOAUDIOLOGIA\nCIRURGIA GERAL\nUROLOGIA\nPSICOLOGIA\nPSIQUIATRIA\nNUTRIÇÃO\n DERMATOLOGIA\nORTOPEDIA\n CARDIOLOGIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AFYA HOSPITAL DIA",
@@ -4189,7 +4712,8 @@
         "especialidade": "CIRURGIA VASCULAR\n RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CENTRO DE INVESTIGAÇÃO CARDIOLÓGICA",
@@ -4197,7 +4721,8 @@
         "especialidade": "CARDIOLOGIA,\n  CIRURGIA VASCULAR\n RADIOLOGIA E DIAGNÓSTICO POR IMAGEM ",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ATEMDO ATENDIMENTO MÉDICO DOMICILIAR LTDA (HOME CARE)",
@@ -4205,7 +4730,8 @@
         "especialidade": "ATENDIMENTO E INTERNAÇÃO DOMICILIAR (HOME CARE)",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CIEN - CENTRO INTEGRAL DE ENDOCRINOLOGIA E NUTRIÇÃO",
@@ -4213,7 +4739,8 @@
         "especialidade": "NUTRIÇÃO,\nPSICOLOGIA,\nFONOAUDIOLOGIA \n",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "GEROCLÍNICA ASSISTÊNCIA DOMICILIAR GERIATRICA  (HOME CARE)",
@@ -4221,7 +4748,8 @@
         "especialidade": "ATENDIMENTO E INTERNAÇÃO DOMICILIAR (HOME CARE)",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UNIPROCTO",
@@ -4229,7 +4757,8 @@
         "especialidade": "GASTROENTEROLOGIA,\nCOLOPROCTOLOGIA,\nHEPATOLOGIA,\n FISIOTERAPIA,\nCIRURGIA GERAL,",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE HEMATOLOGIA DE GOIANIA LTDA",
@@ -4237,7 +4766,8 @@
         "especialidade": "HEMATOLOGIA E HEMOTERAPIA",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "L'ESSENCE CUIDADOS DA DOR",
@@ -4245,7 +4775,8 @@
         "especialidade": "ANESTESIOLOGIA \nNEUROCIRURGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VITORIA ESPACO PSICOPEDAGOGICO",
@@ -4253,7 +4784,8 @@
         "especialidade": "FISIOTERAPIA,\nFONOAUDIOLOGIA,\nPSICOLOGIA,\nNUTRIÇÃO,",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "FISIO3",
@@ -4261,7 +4793,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBRAFISIO",
@@ -4269,7 +4802,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE FISIOTERAPIA E REABILITAÇÃO EM ORTOPEDIA E TRAUMATOLOGIA DESPORTIVA LTDA",
@@ -4277,7 +4811,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "AYLLA GOMES",
@@ -4285,7 +4820,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": " CEMAN",
@@ -4293,7 +4829,8 @@
         "especialidade": "ALERGIA (ADULTO / PEDIÁTRICO)\nCLÍNICA MÉDICA\n CIRURGIA GERAL\n DERMATOLOGIA\nENDOCRINOLOGIA\n PSIQUIATRIA \nNUTRIÇÃO",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLINDOR ORTOPEDIA & CLÍNICA DA DOR",
@@ -4301,7 +4838,8 @@
         "especialidade": "ORTOPEDIA,\nPSIQUIATRIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "DOMED",
@@ -4309,7 +4847,8 @@
         "especialidade": "UTI ADULTO",
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MILAGRES HOME CARE",
@@ -4317,7 +4856,8 @@
         "especialidade": "SERVICO DE ATENCAO DOMICILIAR ISOLADO(HOME CARE)",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": " EVOLUIR",
@@ -4325,7 +4865,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO CV REUMATOLOGIA",
@@ -4333,7 +4874,8 @@
         "especialidade": "REUMATOLOGIA​",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PLACI BRASILIA​",
@@ -4341,7 +4883,8 @@
         "especialidade": "CLINICA MÉDICA,\nFISIOTERAPIA,\n GERIATRIA,\n NEFROLOGIA,\nNEUROLOGIA,\n NUTRIÇÃO,\nPNEUMOLOGIA,\nPSICOLOGIA",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RENAL MAIS",
@@ -4349,7 +4892,8 @@
         "especialidade": "NEFROLOGIA",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INDOOR SAÚDE",
@@ -4357,7 +4901,8 @@
         "especialidade": "GERIATRIA,\nINFECTOLOGIA,\n NUTROLOGIA,\nREUMATOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA SÃO MANOEL",
@@ -4365,7 +4910,8 @@
         "especialidade": "CLÍNICO GERAL\n GINECOLOGIA\nPEDIATRIA\nORTOPEDIA\n PSICOLOGIA\nNUTRIÇÃO\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "WE ORTOPEDIA CONTEMPORANEA",
@@ -4373,7 +4919,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ROYAL ",
@@ -4381,7 +4928,8 @@
         "especialidade": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "VICENTE PIRES",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA MODULA DOR",
@@ -4389,7 +4937,8 @@
         "especialidade": "CLÍNICA MÉDICA\n NEUROLOGIA,\n REUMATOLOGIA\n FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COTE",
@@ -4397,7 +4946,8 @@
         "especialidade": "ORTOPEDIA E TRAUMATOLOGIA\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
         "bairro": "LAGO SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ACOLHE PEDIATRIA E PSICOLOGIA",
@@ -4405,7 +4955,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA TACTUS",
@@ -4413,7 +4964,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "GAMA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "IBRANUTRO",
@@ -4421,7 +4973,8 @@
         "especialidade": "NUTRIÇÃO \nNUTROLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "UNICAKIDS",
@@ -4429,7 +4982,8 @@
         "especialidade": "PSICOLOGIA\nFONOAUDIOLOGIA\n NUTRIÇÃO",
         "bairro": "GUARÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ESSENCE SAÚDE",
@@ -4437,7 +4991,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA GALENO",
@@ -4445,7 +5000,8 @@
         "especialidade": "CLÍNICA MÉDICA\n CARDIOLOGIA   \nCIRURGIA DO APARELHO DIGESTIVO\nCIRURGIA VASCULAR\n CIRURGIA GERAL\n DERMATOLOGIA\nENDOCRINOLOGIA\nGINECOLOGIA E OBSTETRÍCIA\nRADIOLOGIA E DIAGNOSTICO POR IMAGEM",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA DO RIM",
@@ -4453,7 +5009,8 @@
         "especialidade": "NEFROLOGIA",
         "bairro": "SAMAMBAIA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO DE PSICOLOGIA LOTUS",
@@ -4461,7 +5018,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "JK LABORATORIO",
@@ -4469,7 +5027,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "INSTITUTO BONIFÁCIO DE ESPECIALIDADES MÉDICAS E DIAGNÓSTICOS LTDA",
@@ -4477,7 +5036,8 @@
         "especialidade": "ANGIOLOGIA \nCARDIOLOGIA \nCLINICA MEDICA\nCOLOPROCTOLOGIA\nGASTROENTEROLOGIA\nGINECOLOGIA E OBSTETRÍCIA\nNEUROLOGIA\n ORTOPEDIA / PATOLOGIA CLINICA/MEDICINA LABORATORIAL\nRADIOLOGIA\n UROLOGIA",
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LIFE EXCELÊNCIA",
@@ -4485,7 +5045,8 @@
         "especialidade": null,
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "PSICOVITTAE CLÍNICAS INTEGRADAS E FORMAÇÃO PROFISSIONAL LTDA",
@@ -4493,7 +5054,8 @@
         "especialidade": "PSICOLOGIA",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "VITRIUM LABORATÓRIO",
@@ -4501,7 +5063,8 @@
         "especialidade": "RADIOLOGIA E DIAGNOSTICO POR IMAGEM\nPATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "GUARÁ ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COPP",
@@ -4509,7 +5072,8 @@
         "especialidade": "PSICOLOGIA\n FONOAUDIOLOGIA ",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "RAHA SAÚDE E ESTÉTICA",
@@ -4517,7 +5081,8 @@
         "especialidade": "FISIOTERAPIA",
         "bairro": "VICENTE PIRES",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "COMPASSIO",
@@ -4525,7 +5090,8 @@
         "especialidade": "FONOAUDIOLOGIA \nNUTRIÇÃO\n PSICOLOGIA\n PEDIATRIA ",
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL SANTA LUZIA",
@@ -4533,7 +5099,8 @@
         "especialidade": "ALERGIA E IMUNOLOGIA\nPATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL,ANESTESIOLOGIA, ANGIOLOGIA,CIRURGIA,VASCULAR,CARDIOLOGIA,CIRURGIA GERAL, CLÍNICA MÉDICA ,DERMATOLOGIA,ENDOCRINOLOGIA\n FISIOTERAPIA FONOAUDIOLOGIA,GASTROENTEROLOGIA GINECOLOGIA, HEMATOLOGIA E HEMOTERAPIA,INFECTOLOGIA, MASTOLOGIA,NEFROLOGIA, NEUROCIRURGIA, NEUROLOGIA, NUTRIÇÃO,ONCOLOGIA, ORTOPEDIA\nOTORRINOLARINGOLOGIA,PEDIATRIA,PNEUMOLOGIA COLOPROCTOLOGIA,PSICOLOGIA,PSIQUIATRIA, REUMATOLOGIA, UROLOGIA\n\n******\nAMBULATÓRIAL / INTERNAÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "LABS MEDICINA DIAGNÓSTICA",
@@ -4541,7 +5108,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "HOSPITAL DO CORAÇÃO",
@@ -4549,7 +5117,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL\n ANESTESIOLOGIA\n ANGIOLOGIA\n CARDIOLOGIA\n CIRURGIA GERAL\nCIRURGIA CARDIOVASCULAR\nCIRURGIA VASCULAR \nDERMATOLOGIA \nENDOCRINOLOGIA\nFISIOTERAPIA\n FONOAUDIOLOGIA\nGASTROENTEROLOGIA, \nHEMOTERAPIA\nINFECTOLOGIA\nMEDICINA NUCLEAR\n NEFROLOGIA\n NEUROCIRURGIA\nNEUROLOGIA\n NUTRIÇÃO\nONCOLOGIA\nRADIOLOGIA E DIAGNÓSTICO POR IMAGEM\nUROLOGIA\n.....\nAMBULATÓRIAL / INTERNAÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "ELI LABORATÓRIO",
@@ -4557,7 +5126,8 @@
         "especialidade": "PATOLOGIA CLÍNICA/ MEDICINA LABORATORIAL",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "MEDCOR CARDIOLOGISTAS",
@@ -4565,7 +5135,8 @@
         "especialidade": "CARDIOLOGIA,\nENDOCRINOLOGIA,\n NEUROLOGIA,\n CLÍNICA GERAL,\n PSICOLOGIA ,\nNUTRIÇÃO",
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLÍNICA INTELECTO",
@@ -4573,7 +5144,8 @@
         "especialidade": "CLÍNICA MÉDICA,\nPSICOLOGIA,\nNUTRIÇÃO",
         "bairro": "ASA SUL",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "CLIFALI",
@@ -4581,7 +5153,8 @@
         "especialidade": "FONOAUDIOLOGIA \n PSICOLOGIA",
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     },
     {
         "nome": "SYNERGIA HOSPITAL PSICUQIATRICO HUMANA",
@@ -4589,6 +5162,7 @@
         "especialidade": "PSIQUIATRIA,\nPSICOLOGIA,\nNUTRIÇÃO,\n FISIOTERAPIA",
         "bairro": "PARANOÁ",
         "cidade": "Brasília",
-        "estado": "DF"
+        "estado": "DF",
+        "procedimento": ""
     }
 ]

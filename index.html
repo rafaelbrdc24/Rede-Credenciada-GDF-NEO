@@ -202,6 +202,10 @@
           <label for="estado">Estado</label>
           <input type="text" id="estado" placeholder="Ex.: DF" />
         </div>
+        <div class="field">
+          <label for="procedimento">Procedimento</label>
+          <input type="text" id="procedimento" placeholder="Ex.: Exame de sangue" />
+        </div>
       </div>
       <button type="submit" style="margin-top: 1rem;">Pesquisar</button>
     </form>
@@ -325,6 +329,7 @@
       const bairro = normalize(document.getElementById('bairro').value);
       const cidade = normalize(document.getElementById('cidade').value);
       const estado = normalize(document.getElementById('estado').value);
+      const procedimento = normalize(document.getElementById('procedimento').value);
 
       const canonicalSearchTerm = similarityMap[especialidadeInput] || especialidadeInput;
 
@@ -334,11 +339,27 @@
 
         const specialtyMatch = !especialidadeInput || entrySpecialtiesCanonical.some(s => s.includes(canonicalSearchTerm));
 
+        // Busca por procedimento - pode ser string ou array
+        let procedimentoMatch = true;
+        if (procedimento) {
+          if (!entry.procedimento || (typeof entry.procedimento === 'string' && entry.procedimento.trim() === '')) {
+            procedimentoMatch = false;
+          } else {
+            const entryProcedimentos = Array.isArray(entry.procedimento) 
+              ? entry.procedimento.map(p => normalize(String(p).trim())).filter(p => p)
+              : normalize(entry.procedimento).split(/, |[\n]/).map(s => normalize(s.trim())).filter(s => s);
+            const procedimentoNormalized = normalize(entry.procedimento);
+            procedimentoMatch = entryProcedimentos.some(p => p.includes(procedimento)) || 
+                                procedimentoNormalized.includes(procedimento);
+          }
+        }
+
         return (!nome || normalize(entry.nome).includes(nome)) &&
                specialtyMatch &&
                (!bairro || normalize(entry.bairro).includes(bairro)) &&
                (!cidade || normalize(entry.cidade).includes(cidade)) &&
-               (!estado || normalize(entry.estado).includes(estado));
+               (!estado || normalize(entry.estado).includes(estado)) &&
+               procedimentoMatch;
       });
 
       const container = document.getElementById('results');
@@ -357,6 +378,7 @@
             <h3 style="color: #2962ff;">${entry.nome}</h3>
             <p><strong>Telefone:</strong> ${entry.telefone ? `<a href="tel:${entry.telefone.replace(/\D/g,'')}">${entry.telefone}</a>` : 'Não informado'}</p>
             <p><strong>Especialidade:</strong> ${entry.especialidade}</p>
+            ${entry.procedimento && (Array.isArray(entry.procedimento) ? entry.procedimento.length > 0 : entry.procedimento.trim() !== '') ? `<p><strong>Procedimento:</strong> ${Array.isArray(entry.procedimento) ? entry.procedimento.join(', ') : entry.procedimento}</p>` : ''}
             <p><strong>Endereço:</strong> ${entry.bairro}, ${entry.cidade} - ${entry.estado}</p>
           </div>
         `;
