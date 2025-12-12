@@ -6,7 +6,7 @@
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Gastropediatra"
+        "procedimento": "Gastropediatra, Teste de COVID-19"
     },
     {
         "nome": "HOSPITAL HOME",
@@ -195,7 +195,7 @@
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Cirurgia de Tireoide"
+        "procedimento": "Cirurgia de Tireoide, Angioplastia"
     },
     {
         "nome": "MATERNIDADE BRASÍLIA",
@@ -303,7 +303,7 @@
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Teste de COVID-19, Ácido Úrico"
     },
     {
         "nome": "SABIN MEDICINA DIAGNÓSTICA",
@@ -312,7 +312,7 @@
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Teste de COVID-19, Ácido Úrico"
     },
     {
         "nome": "HOSPITAL PACINI",
@@ -1941,7 +1941,7 @@
         "bairro": "GAMA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Teste de COVID-19, Angioplastia"
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA TAGUATINGA",
@@ -1950,7 +1950,7 @@
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Teste de COVID-19"
     },
     {
         "nome": "INSTITUTO OLHOS DE TAGUATINGA",
@@ -3111,7 +3111,7 @@
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Cirurgia de Tireoide"
+        "procedimento": "Cirurgia de Tireoide, Angioplastia"
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA SUL",
@@ -3354,7 +3354,7 @@
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Ácido Úrico"
     },
     {
         "nome": "POLISSONO NORTE",
@@ -3408,7 +3408,7 @@
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Ácido Úrico"
     },
     {
         "nome": "VERSE IN VERSE DIA",
@@ -3462,7 +3462,7 @@
         "bairro": "RECANTO DAS EMAS",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Ácido Úrico"
     },
     {
         "nome": "HOSPITAL DE OLHOS DO GAMA",
@@ -5127,7 +5127,7 @@
         "bairro": "ASA SUL",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Ácido Úrico"
     },
     {
         "nome": "MEDCOR CARDIOLOGISTAS",
