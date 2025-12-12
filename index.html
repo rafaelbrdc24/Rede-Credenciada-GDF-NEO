@@ -5,142 +5,306 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Rede Credenciada - GDF Saúde</title>
   <link rel="icon" href="icon_gdf.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f8f9fa;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
       margin: 0;
       padding: 0;
       display: flex;
       flex-direction: column;
       min-height: 100vh;
+      line-height: 1.6;
+      color: #2d3748;
     }
     header {
-      background-color: #ffffff;
+      background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
       text-align: center;
-      padding: 1rem;
-      border-bottom: 2px solid #ccc;
+      padding: 2rem 1rem;
+      border-bottom: 3px solid #e2e8f0;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
     }
     header img {
-      max-width: 300px;
-      border-radius: 16px;
+      max-width: 320px;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(41, 98, 255, 0.15);
+      transition: transform 0.3s ease;
+    }
+    header img:hover {
+      transform: scale(1.02);
     }
     .container {
-      padding: 2rem;
-      max-width: 1200px;
+      padding: 2.5rem 1.5rem;
+      max-width: 1400px;
       margin: auto;
       flex: 1;
+      width: 100%;
     }
     .btns {
       display: flex;
       justify-content: center;
-      gap: 2rem;
-      margin-bottom: 2rem;
+      gap: 1.5rem;
+      margin-bottom: 3rem;
+      flex-wrap: wrap;
     }
     button {
-      padding: 1rem 2rem;
-      font-size: 1rem;
+      padding: 1.1rem 2.5rem;
+      font-size: 1.05rem;
+      font-weight: 600;
       border: none;
-      border-radius: 16px;
+      border-radius: 12px;
       cursor: pointer;
       color: white;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      position: relative;
+      overflow: hidden;
+    }
+    button::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 0;
+      height: 0;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.2);
+      transform: translate(-50%, -50%);
+      transition: width 0.6s, height 0.6s;
+    }
+    button:hover::before {
+      width: 300px;
+      height: 300px;
+    }
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+    }
+    button:active {
+      transform: translateY(0);
     }
     .direta {
-      background: linear-gradient(to right, #2962ff, #00c853);
+      background: linear-gradient(135deg, #2962ff 0%, #00c853 100%);
     }
     .indireta {
-      background: linear-gradient(to right, #2962ff, #ffab00);
+      background: linear-gradient(135deg, #2962ff 0%, #ffab00 100%);
     }
     form {
       display: none;
       flex-direction: column;
-      gap: 1rem;
-      margin-bottom: 2rem;
+      gap: 1.5rem;
+      margin-bottom: 2.5rem;
+      background: white;
+      padding: 2rem;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     }
     input, select {
-      padding: 0.8rem;
-      border-radius: 8px;
-      border: 1px solid #ccc;
+      padding: 0.95rem 1.2rem;
+      border-radius: 10px;
+      border: 2px solid #e2e8f0;
       width: 100%;
+      font-size: 0.95rem;
+      font-family: inherit;
+      transition: all 0.3s ease;
+      background-color: #ffffff;
+    }
+    input:hover, select:hover {
+      border-color: #cbd5e0;
+    }
+    input:focus, select:focus {
+      outline: none;
+      border-color: #2962ff;
+      box-shadow: 0 0 0 3px rgba(41, 98, 255, 0.1);
     }
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 1rem;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
     }
     .result {
       background: white;
-      padding: 1rem;
+      padding: 1.5rem;
       border-radius: 16px;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      border: 1px solid #e2e8f0;
+      transition: all 0.3s ease;
     }
     .result h3 {
-      margin: 0;
+      margin: 0 0 1rem 0;
       color: #2962ff;
+      font-size: 1.25rem;
+      font-weight: 700;
+      line-height: 1.4;
     }
     .result p {
-      margin: 0.2rem 0;
+      margin: 0.75rem 0;
+      font-size: 0.95rem;
+      color: #4a5568;
+      line-height: 1.6;
+    }
+    .result p strong {
+      color: #2d3748;
+      font-weight: 600;
+      display: inline-block;
+      min-width: 100px;
     }
     .result p:last-child {
       margin-bottom: 0;
     }
+    .result a {
+      color: #2962ff;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.2s ease;
+    }
+    .result a:hover {
+      color: #00c853;
+      text-decoration: underline;
+    }
     /* Campos e layout refinados */
+    .field {
+      position: relative;
+    }
     .field label {
       display: block;
       font-weight: 600;
       font-size: 0.9rem;
-      margin-bottom: 0.25rem;
-      color: #333;
-    }
-    input:focus, select:focus {
-      outline: 2px solid #2962ff22;
-      border-color: #2962ff;
+      margin-bottom: 0.5rem;
+      color: #2d3748;
+      letter-spacing: -0.01em;
     }
     /* Barra de contexto */
     .context-bar {
-      background: #eef2ff;
-      border: 1px solid #c7d2fe;
-      padding: 0.75rem 1rem;
-      border-radius: 12px;
-      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #eef2ff 0%, #f0f4ff 100%);
+      border: 2px solid #c7d2fe;
+      padding: 1rem 1.5rem;
+      border-radius: 14px;
+      margin-bottom: 1.5rem;
       display: none;
       align-items: center;
       justify-content: space-between;
-      gap: 1rem;
+      gap: 1.5rem;
       flex-wrap: wrap;
+      box-shadow: 0 2px 8px rgba(41, 98, 255, 0.1);
+    }
+    .context-bar > div {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 500;
+      color: #2d3748;
     }
     .context-bar .pill {
-      background: #2962ff;
+      background: linear-gradient(135deg, #2962ff 0%, #1e40af 100%);
       color: #ffffff;
-      padding: 0.2rem 0.6rem;
-      border-radius: 999px;
-      font-size: 0.85rem;
+      padding: 0.35rem 0.85rem;
+      border-radius: 20px;
+      font-size: 0.875rem;
+      font-weight: 600;
       display: inline-block;
+      box-shadow: 0 2px 4px rgba(41, 98, 255, 0.3);
+    }
+    #contextCount {
+      font-weight: 700;
+      color: #2962ff;
+      font-size: 1.1rem;
     }
     /* Resultados em grade e efeitos */
     #results {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 1rem;
-    }
-    .result {
-      transition: box-shadow 0.2s ease, transform 0.2s ease;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
     }
     .result:hover {
-      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
-      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+      transform: translateY(-4px);
+      border-color: #2962ff;
     }
     /* Estilo para o botão de pesquisa */
     #searchForm button {
-        background-color: #2962ff;
-        color: white;
+      background: linear-gradient(135deg, #2962ff 0%, #1e40af 100%);
+      color: white;
+      width: 100%;
+      max-width: 300px;
+      margin: 0.5rem auto 0;
+      font-size: 1.05rem;
+      padding: 1rem 2rem;
     }
     footer {
       text-align: center;
-      padding: 1rem;
-      background-color: #ffffff;
-      border-top: 2px solid #ccc;
+      padding: 1.5rem;
+      background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+      border-top: 3px solid #e2e8f0;
       margin-top: auto;
+      color: #64748b;
+      font-size: 0.9rem;
+    }
+    footer p {
+      margin: 0.25rem 0;
+    }
+    footer p:first-child {
+      font-weight: 600;
+      color: #2962ff;
+    }
+    /* Mensagem de carregamento e vazio */
+    #results > p {
+      text-align: center;
+      padding: 3rem;
+      color: #64748b;
+      font-size: 1.1rem;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+    /* Responsividade melhorada */
+    @media (max-width: 768px) {
+      .container {
+        padding: 1.5rem 1rem;
+      }
+      .btns {
+        gap: 1rem;
+        margin-bottom: 2rem;
+      }
+      button {
+        padding: 0.95rem 1.8rem;
+        font-size: 0.95rem;
+        flex: 1;
+        min-width: 140px;
+      }
+      form {
+        padding: 1.5rem;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+        gap: 1.25rem;
+      }
+      #results {
+        grid-template-columns: 1fr;
+      }
+      header img {
+        max-width: 250px;
+      }
+    }
+    /* Scrollbar personalizada */
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #f1f5f9;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #cbd5e0;
+      border-radius: 5px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #94a3b8;
     }
   </style>
 </head>
@@ -204,7 +368,8 @@
         </div>
         <div class="field">
           <label for="procedimento">Procedimento</label>
-          <input type="text" id="procedimento" placeholder="Ex.: Exame de sangue" />
+          <input type="text" id="procedimento" list="procedimentosList" placeholder="Ex.: Exame de sangue" />
+          <datalist id="procedimentosList"></datalist>
         </div>
       </div>
       <button type="submit" style="margin-top: 1rem;">Pesquisar</button>
@@ -213,8 +378,8 @@
   </div>
 
   <footer>
-    <p>Versão: 1.5.0 </p>
-    <p>Dev: Rafael Barros</p>
+    <p>Versão: 2.0.0</p>
+    <p>Desenvolvido por: Rafael Barros</p>
   </footer>
 
   <script>
@@ -294,6 +459,35 @@
       }
     };
 
+    const loadProcedures = async () => {
+      try {
+        const res = await fetch('procedimentos_exatos.json');
+        const procedures = await res.json();
+
+        const uniqueProcedures = new Set();
+        procedures.forEach(proc => {
+          const individualProcs = proc.split(/, |[\n]/).map(p => p.trim());
+          individualProcs.forEach(p => {
+            if (p) {
+              uniqueProcedures.add(p);
+            }
+          });
+        });
+
+        const sortedProcedures = Array.from(uniqueProcedures).sort();
+
+        const datalist = document.getElementById('procedimentosList');
+        sortedProcedures.forEach(proc => {
+          const option = document.createElement('option');
+          option.value = proc;
+          datalist.appendChild(option);
+        });
+
+      } catch (error) {
+        console.error('Erro ao carregar procedimentos:', error);
+      }
+    };
+
     const loadSheet = async (sheet) => {
       currentSheet = sheet;
       const form = document.getElementById('searchForm');
@@ -366,20 +560,24 @@
       const contextCount = document.getElementById('contextCount');
       container.innerHTML = '';
       if (results.length === 0) {
-        container.innerHTML = '<p>Nenhum resultado encontrado.</p>';
+        container.innerHTML = '<p>🔍 Nenhum resultado encontrado. Tente ajustar os filtros de busca.</p>';
         if (contextCount) contextCount.textContent = '0';
         return;
       }
 
       if (contextCount) contextCount.textContent = String(results.length);
       results.forEach(entry => {
+        const procedimentoHtml = entry.procedimento && (Array.isArray(entry.procedimento) ? entry.procedimento.length > 0 : entry.procedimento.trim() !== '') 
+          ? `<p><strong>Procedimento:</strong> ${Array.isArray(entry.procedimento) ? entry.procedimento.join(', ') : entry.procedimento}</p>` 
+          : '';
+        
         container.innerHTML += `
           <div class="result">
-            <h3 style="color: #2962ff;">${entry.nome}</h3>
-            <p><strong>Telefone:</strong> ${entry.telefone ? `<a href="tel:${entry.telefone.replace(/\D/g,'')}">${entry.telefone}</a>` : 'Não informado'}</p>
-            <p><strong>Especialidade:</strong> ${entry.especialidade}</p>
-            ${entry.procedimento && (Array.isArray(entry.procedimento) ? entry.procedimento.length > 0 : entry.procedimento.trim() !== '') ? `<p><strong>Procedimento:</strong> ${Array.isArray(entry.procedimento) ? entry.procedimento.join(', ') : entry.procedimento}</p>` : ''}
-            <p><strong>Endereço:</strong> ${entry.bairro}, ${entry.cidade} - ${entry.estado}</p>
+            <h3>${entry.nome}</h3>
+            <p><strong>📞 Telefone:</strong> ${entry.telefone ? `<a href="tel:${entry.telefone.replace(/\D/g,'')}">${entry.telefone}</a>` : '<span style="color: #94a3b8;">Não informado</span>'}</p>
+            <p><strong>🏥 Especialidade:</strong> ${entry.especialidade}</p>
+            ${procedimentoHtml ? procedimentoHtml.replace('<strong>Procedimento:', '<strong>💊 Procedimento:') : ''}
+            <p><strong>📍 Endereço:</strong> ${entry.bairro}, ${entry.cidade} - ${entry.estado}</p>
           </div>
         `;
       });
@@ -387,6 +585,7 @@
 
     window.onload = () => {
       loadSpecialties();
+      loadProcedures();
     };
   </script>
 </body>
