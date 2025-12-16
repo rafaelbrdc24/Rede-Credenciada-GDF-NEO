@@ -15,7 +15,7 @@
         "bairro": "ASA SUL",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Endoscopia"
     },
     {
         "nome": "HOSPITAL DOS OLHOS - CBV ",
@@ -78,7 +78,7 @@
         "bairro": "CEILÂNDIA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Beta HCG"
     },
     {
         "nome": "COOPANEST-DF",
@@ -195,7 +195,7 @@
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Cirurgia de Tireoide, Angioplastia"
+        "procedimento": "Cirurgia de Tireoide, Angioplastia, Endoscopia, implante de DIU, Beta HCG"
     },
     {
         "nome": "MATERNIDADE BRASÍLIA",
@@ -204,7 +204,7 @@
         "bairro": "SUDOESTE",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "implante de DIU, Beta HCG"
     },
     {
         "nome": "GINECUS",
@@ -240,7 +240,7 @@
         "bairro": "GUARÁ",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "implante de DIU"
     },
     {
         "nome": "NÚCLEOS CENTRO DE MEDICINA NUCLEAR",
@@ -1941,7 +1941,7 @@
         "bairro": "GAMA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Teste de COVID-19, Angioplastia"
+        "procedimento": "Teste de COVID-19, Angioplastia, Endoscopia, Beta HCG"
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA TAGUATINGA",
@@ -1950,7 +1950,7 @@
         "bairro": "ÁGUAS CLARAS",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Teste de COVID-19"
+        "procedimento": "Teste de COVID-19 , Beta HCG"
     },
     {
         "nome": "INSTITUTO OLHOS DE TAGUATINGA",
@@ -2031,7 +2031,7 @@
         "bairro": "ASA SUL",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "implante de DIU"
     },
     {
         "nome": "CLINICA PROCORPORE ",
@@ -3111,7 +3111,7 @@
         "bairro": "ASA NORTE",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Cirurgia de Tireoide, Angioplastia"
+        "procedimento": "Cirurgia de Tireoide, Angioplastia, Endoscopia"
     },
     {
         "nome": "HOSPITAL SANTA LÚCIA SUL",
@@ -3354,7 +3354,7 @@
         "bairro": "PLANALTINA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Ácido Úrico"
+        "procedimento": "Ácido Úrico, Beta HCG"
     },
     {
         "nome": "POLISSONO NORTE",
@@ -3768,7 +3768,7 @@
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "Endoscopia, implante de DIU"
     },
     {
         "nome": "ESPAÇO PHYSIO",
@@ -4524,7 +4524,7 @@
         "bairro": "TAGUATINGA",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": ""
+        "procedimento": "implante de DIU"
     },
     {
         "nome": "FISIOLABOR VITALI",
@@ -5100,7 +5100,7 @@
         "bairro": "ASA SUL",
         "cidade": "Brasília",
         "estado": "DF",
-        "procedimento": "Eletroneuromiografia"
+        "procedimento": "Eletroneuromiografia, implante de DIU"
     },
     {
         "nome": "LABS MEDICINA DIAGNÓSTICA",
